@@ -6,6 +6,6 @@ namespace mkryuchkov.TgBot
 {
     public interface ITgUpdateHandler
     {
-        Task Handle(Update update, CancellationToken cancellationToken);
+        Task Handle(Update update, CancellationToken token);
     }
 }
