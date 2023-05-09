@@ -17,6 +17,7 @@ try
 
     builder.Services.AddTgBot(builder.Configuration);
     builder.Services.AddSingleton<ITgUpdateHandler, TgUpdateHandler>();
+    builder.Services.AddBot();
 
     var app = builder.Build();
 
