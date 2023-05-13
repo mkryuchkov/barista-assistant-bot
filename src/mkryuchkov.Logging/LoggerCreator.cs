@@ -27,7 +27,14 @@ public static class LoggerCreator
             .MinimumLevel.Override("Microsoft.AspNetCore", LogEventLevel.Error)
             .MinimumLevel.Override("System", LogEventLevel.Warning);
 
-        config.WriteTo.Console(new CompactJsonFormatter());
+        if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") == "Development")
+        {
+            config.WriteTo.Console();
+        }
+        else
+        {
+            config.WriteTo.Console(new CompactJsonFormatter());
+        }
 
         return config.CreateLogger();
     }

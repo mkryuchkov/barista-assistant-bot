@@ -1,6 +1,8 @@
+using mkryuchkov.BaristaBot.TgBot.Interfaces;
+
 namespace mkryuchkov.BaristaBot.TgBot;
 
-public class BotUserContext
+public class BotUserContext : IBotUserContext
 {
-    public string? CurrentActivity { get; set; }
+    public string? CurrentPage { get; set; }
 }

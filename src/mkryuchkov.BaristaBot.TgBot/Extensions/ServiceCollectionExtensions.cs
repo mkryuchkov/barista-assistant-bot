@@ -1,21 +1,26 @@
 ﻿using System.Reflection;
 using Microsoft.Extensions.DependencyInjection;
+using mkryuchkov.BaristaBot.TgBot.Interfaces;
 
-namespace mkryuchkov.BaristaBot.TgBot
+namespace mkryuchkov.BaristaBot.TgBot.Extensions
 {
     public static class ServiceCollectionExtensions
     {
-        public static IServiceCollection AddBot(
-            this IServiceCollection services)
+        public static IServiceCollection AddBot(this IServiceCollection services)
         {
-            services.AddImplementations(typeof(ActivityBase<>));
+            services.AddScoped<IBotUserContext, BotUserContext>();
+
+            services.AddAllImplementations(typeof(ITgPage));
+
+            services.AddSingleton<TgPageLocator>(provider => name =>
+                provider.GetServices<ITgPage>().First(s => s.GetType().Name == name));
 
             services.AddSingleton<IBot, Bot>();
 
             return services;
         }
 
-        public static IServiceCollection AddImplementations(
+        private static IServiceCollection AddAllImplementations(
             this IServiceCollection services,
             Type type,
             ServiceLifetime lifetime = ServiceLifetime.Transient)

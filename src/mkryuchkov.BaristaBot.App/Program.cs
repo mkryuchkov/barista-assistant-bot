@@ -1,4 +1,5 @@
 ﻿using mkryuchkov.BaristaBot.TgBot;
+using mkryuchkov.BaristaBot.TgBot.Extensions;
 using mkryuchkov.Logging;
 using mkryuchkov.TgBot;
 using mkryuchkov.TgBot.Configuration;
@@ -16,7 +17,7 @@ try
     builder.Host.UseSerilog();
 
     builder.Services.AddTgBot(builder.Configuration);
-    builder.Services.AddSingleton<ITgUpdateHandler, TgUpdateHandler>();
+    builder.Services.AddScoped<ITgUpdateHandler, TgUpdateHandler>();
     builder.Services.AddBot();
 
     var app = builder.Build();
