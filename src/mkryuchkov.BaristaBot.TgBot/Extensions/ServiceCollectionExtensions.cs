@@ -8,14 +8,14 @@ namespace mkryuchkov.BaristaBot.TgBot.Extensions
     {
         public static IServiceCollection AddBot(this IServiceCollection services)
         {
-            services.AddScoped<IBotUserContext, BotUserContext>();
+            services.AddScoped<IChatContext, ChatContext>();
 
             services.AddAllImplementations(typeof(ITgPage));
 
             services.AddSingleton<TgPageLocator>(provider => name =>
                 provider.GetServices<ITgPage>().First(s => s.GetType().Name == name));
 
-            services.AddSingleton<IBot, Bot>();
+            services.AddScoped<IBot, Bot>();
 
             return services;
         }
@@ -25,8 +25,8 @@ namespace mkryuchkov.BaristaBot.TgBot.Extensions
             Type type,
             ServiceLifetime lifetime = ServiceLifetime.Transient)
         {
-            var implementations = Assembly.GetExecutingAssembly().GetTypes().Where(x =>
-                x.IsClass && !x.IsAbstract && type.IsAssignableFrom(x));
+            var implementations = Assembly.GetExecutingAssembly().GetTypes()
+                .Where(x => x.IsClass && !x.IsAbstract && type.IsAssignableFrom(x));
 
             foreach (var impl in implementations)
             {

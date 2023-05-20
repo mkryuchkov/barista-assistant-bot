@@ -4,7 +4,7 @@ namespace mkryuchkov.BaristaBot.TgBot.Interfaces;
 
 public interface IBot
 {
-    Task InitUserAsync(long chatId, CancellationToken token);
+    Task InitUserAsync(CancellationToken token);
     Task ProcessMessageAsync(Message message, CancellationToken token);
     Task ProcessCallbackAsync(CallbackQuery callback, CancellationToken token);
 }

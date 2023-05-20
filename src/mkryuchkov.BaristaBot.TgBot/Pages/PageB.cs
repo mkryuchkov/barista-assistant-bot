@@ -7,9 +7,9 @@ public class PageB : ITgPage
 {
     public string Text => $"Text of {nameof(PageB)}.";
 
-    public InlineKeyboardMarkup ReplyMarkup => new InlineKeyboardMarkup(new[]
+    public InlineKeyboardMarkup ReplyMarkup => new(new[]
     {
-        new InlineKeyboardButton("To A") { CallbackData = $"navigate:{nameof(PageA)}" },
-        new InlineKeyboardButton("To C") { CallbackData = $"navigate:{nameof(PageC)}" }
+        new InlineKeyboardButton("To A") { CallbackData = $"nav:{nameof(PageA)}" },
+        new InlineKeyboardButton("To C") { CallbackData = $"nav:{nameof(PageC)}" }
     });
 }

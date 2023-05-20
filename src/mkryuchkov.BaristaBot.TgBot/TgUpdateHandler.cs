@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
+using mkryuchkov.BaristaBot.TgBot.Extensions;
 using mkryuchkov.BaristaBot.TgBot.Interfaces;
 using mkryuchkov.TgBot;
-using Telegram.Bot;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 
@@ -11,24 +11,27 @@ public class TgUpdateHandler : ITgUpdateHandler
 {
     private readonly ILogger<TgUpdateHandler> _logger;
     private readonly IBot _bot;
-    private readonly ITelegramBotClient _botClient;
+    private readonly IChatContext _context;
 
     public TgUpdateHandler(
         ILogger<TgUpdateHandler> logger,
         IBot bot,
-        ITelegramBotClient botClient)
+        IChatContext context)
     {
         _logger = logger;
         _bot = bot;
-        _botClient = botClient;
+        _context = context;
     }
 
     public async Task Handle(Update update, CancellationToken token)
     {
+        if (update.TryGetChatId(out var chatId))
+        {
+            _context.ChatId = chatId.Value;
+        }
+        
         _logger.LogInformation("Update {Type} from: {ChatId} {Username}",
-            update.Type,
-            update.Message?.Chat.Id ?? update.CallbackQuery?.Message?.Chat.Id,
-            update.Message?.From?.Username ?? string.Empty);
+            update.Type, chatId, update.Message?.From?.Username ?? string.Empty);
 
         switch (update.Type)
         {
@@ -43,7 +46,7 @@ public class TgUpdateHandler : ITgUpdateHandler
             case UpdateType.Message:
                 if (update.Message!.Text == "/start")
                 {
-                    await _bot.InitUserAsync(update.Message.Chat.Id, token);
+                    await _bot.InitUserAsync(token);
                 }
 
                 await _bot.ProcessMessageAsync(update.Message!, token);
@@ -51,9 +54,9 @@ public class TgUpdateHandler : ITgUpdateHandler
                 break;
 
             case UpdateType.CallbackQuery:
-                
+
                 await _bot.ProcessCallbackAsync(update.CallbackQuery!, token);
-                
+
                 break;
             // case UpdateType.InlineQuery:
             // case UpdateType.ChosenInlineResult:
