@@ -20,8 +20,9 @@ public interface IChatContext
 public class ChatContext : IChatContext
 {
     private readonly TgPageLocator _pageLocator;
-    private const string DefaultPage = nameof(PageA);
-    private readonly ConcurrentDictionary<string, object> _storage = new();
+    private const string DefaultPage = nameof(PageA); // todo: from config
+    private readonly ConcurrentDictionary<string, object> _storage = new(); // todo: external persisted storage
+    // todo: pour context from storage on init // setting ChatId
 
     public ChatContext(TgPageLocator pageLocator)
     {

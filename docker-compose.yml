@@ -1,0 +1,23 @@
+version: "3.8"
+
+services:
+  redis-stack:
+    restart: unless-stopped
+    image: redis/redis-stack:latest
+    environment:
+      - REDIS_ARGS=--save 20 1
+      # --requirepass changeme
+    ports:
+      - "6379:6379"
+      - "8001:8001"
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: 256M
+      
+    volumes:
+      - redis-data:/data
+
+volumes: 
+  redis-data:
