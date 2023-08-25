@@ -1,0 +1,5758 @@
+[
+  {
+    "Id": "0473812d-4e43-fc12-73a8-ad11954ec287",
+    "Manufacturer": "Timemore",
+    "Model": "Nano",
+    "Grinds": [
+      {
+        "Id": "0946cd23-48dd-f94b-4b81-d2a3a58f6cc0",
+        "Step": 14,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.76,
+        "HighAvg": 10.66,
+        "LowAvg": 12.71,
+        "Fine": 0.45
+      },
+      {
+        "Id": "4f0505c9-c15c-c75b-cc0a-6ea69dab12bf",
+        "Step": 24,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.26,
+        "HighAvg": 3.46,
+        "LowAvg": 3.51,
+        "Fine": 0.42
+      },
+      {
+        "Id": "5bcba5ac-0239-c0e8-9b4a-5a848173682a",
+        "Step": 18,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.07,
+        "HighAvg": 8.04,
+        "LowAvg": 7.06,
+        "Fine": 0.37
+      },
+      {
+        "Id": "bb570801-9050-a4d0-1ae7-0319e20b20b9",
+        "Step": 12,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.06,
+        "HighAvg": 10.09,
+        "LowAvg": 15.83,
+        "Fine": 0.48
+      },
+      {
+        "Id": "bc57e795-fbb1-2a77-a650-f3c7581c8335",
+        "Step": 20,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.17,
+        "HighAvg": 5.76,
+        "LowAvg": 5.36,
+        "Fine": 0.32
+      },
+      {
+        "Id": "dd9b6356-6857-af5c-beb1-3ac469b105d4",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.42,
+        "HighAvg": 8,
+        "LowAvg": 19.39,
+        "Fine": 0.5
+      },
+      {
+        "Id": "f8cfe31e-6289-ad5d-14a3-0671610a9784",
+        "Step": 16,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 9.78,
+        "HighAvg": 9.67,
+        "LowAvg": 9.63,
+        "Fine": 0.47
+      },
+      {
+        "Id": "fa8fb550-c7b1-0c0d-a900-68bce7e1103d",
+        "Step": 22,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.55,
+        "HighAvg": 4.43,
+        "LowAvg": 4.24,
+        "Fine": 0.43
+      }
+    ]
+  },
+  {
+    "Id": "056f0e23-7186-2b88-ef4b-055cf3fc477c",
+    "Manufacturer": "Wilfa",
+    "Model": "Svart Uniform",
+    "Grinds": [
+      {
+        "Id": "1d7ba094-0d99-c5f0-7504-1b45bcca4a3d",
+        "Step": 14,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.54,
+        "HighAvg": 13.3,
+        "LowAvg": 13.29,
+        "Fine": 0.63
+      },
+      {
+        "Id": "3a1bda34-48ed-893b-1987-3e89255dd697",
+        "Step": 22,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.6,
+        "HighAvg": 9.12,
+        "LowAvg": 6.66,
+        "Fine": 0.43
+      },
+      {
+        "Id": "52a728ac-0df3-a381-576d-2b1bf1b9dde6",
+        "Step": 16,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.09,
+        "HighAvg": 13.01,
+        "LowAvg": 10.79,
+        "Fine": 0.89
+      },
+      {
+        "Id": "532b0b3b-db92-9ab4-f55b-84acb950ef70",
+        "Step": 12,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.25,
+        "HighAvg": 11.78,
+        "LowAvg": 15.73,
+        "Fine": 0.83
+      },
+      {
+        "Id": "8bb43691-e79d-b468-470b-d7ca345da9b6",
+        "Step": 26,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.89,
+        "HighAvg": 6.32,
+        "LowAvg": 5.08,
+        "Fine": 0.53
+      },
+      {
+        "Id": "92985604-2d83-a8c7-3a4e-f5d1c341cd5d",
+        "Step": 24,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.34,
+        "HighAvg": 7.39,
+        "LowAvg": 5.68,
+        "Fine": 0.32
+      },
+      {
+        "Id": "990cc782-d93f-4dc0-cbfb-30f21208dc20",
+        "Step": 32,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.68,
+        "HighAvg": 3.99,
+        "LowAvg": 3.63,
+        "Fine": 0.51
+      },
+      {
+        "Id": "b0335b14-ed54-79b9-9c30-08e3980d53e7",
+        "Step": 30,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.71,
+        "HighAvg": 4.65,
+        "LowAvg": 4.05,
+        "Fine": 0.39
+      },
+      {
+        "Id": "b5a39d8d-6ff6-8d83-9a7c-c77ddc162cc3",
+        "Step": 20,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 11.27,
+        "HighAvg": 10.63,
+        "LowAvg": 7.36,
+        "Fine": 0.62
+      },
+      {
+        "Id": "dfb93890-c354-9bbc-f8cb-3770e4867dce",
+        "Step": 18,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 8.01,
+        "HighAvg": 12.24,
+        "LowAvg": 8.96,
+        "Fine": 0.53
+      },
+      {
+        "Id": "ee3e2b47-aefb-aa85-f641-28ca43e10fc7",
+        "Step": 28,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.46,
+        "HighAvg": 5.27,
+        "LowAvg": 4.7,
+        "Fine": 0.35
+      }
+    ]
+  },
+  {
+    "Id": "0df0ff55-546c-9be9-83be-82154746f140",
+    "Manufacturer": "Timemore ",
+    "Model": "Chestnut C3",
+    "Grinds": [
+      {
+        "Id": "0961d344-fcec-4255-a10d-7f5af333a1c8",
+        "Step": 14,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 9.94,
+        "HighAvg": 11.53,
+        "LowAvg": 7.87,
+        "Fine": 0.28
+      },
+      {
+        "Id": "13dc0102-1db5-2055-d6c3-cbfc5a0c0890",
+        "Step": 12,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.09,
+        "HighAvg": 13.13,
+        "LowAvg": 10.94,
+        "Fine": 0.29
+      },
+      {
+        "Id": "148fe5d5-7690-5650-44a6-23fe8a276e53",
+        "Step": 8,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.29,
+        "HighAvg": 6.18,
+        "LowAvg": 22.57,
+        "Fine": 0.29
+      },
+      {
+        "Id": "4a476e83-9e0a-3d00-adbf-b64386059dab",
+        "Step": 13,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 7.52,
+        "HighAvg": 12.33,
+        "LowAvg": 9.4,
+        "Fine": 0.27
+      },
+      {
+        "Id": "5b1427e9-9c48-c2bf-caab-2f8a3a03243a",
+        "Step": 17,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.47,
+        "HighAvg": 6.68,
+        "LowAvg": 6.93,
+        "Fine": 0.19
+      },
+      {
+        "Id": "c44e3c56-a2c8-1b79-8fd9-5bbdf0e0da32",
+        "Step": 18,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.84,
+        "HighAvg": 5.02,
+        "LowAvg": 3.81,
+        "Fine": 0.18
+      },
+      {
+        "Id": "c905daf3-8f05-e8fc-ee76-1fe7bcf96880",
+        "Step": 16,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.09,
+        "HighAvg": 8.33,
+        "LowAvg": 5.02,
+        "Fine": 0.19
+      },
+      {
+        "Id": "ded733ce-0687-5b96-a033-ea3447bcc117",
+        "Step": 9,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.47,
+        "HighAvg": 9.04,
+        "LowAvg": 18.05,
+        "Fine": 0.29
+      },
+      {
+        "Id": "e375b7af-7508-d9ef-d2d0-ed66475680eb",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.76,
+        "HighAvg": 11.96,
+        "LowAvg": 14.43,
+        "Fine": 0.36
+      },
+      {
+        "Id": "eebb8b37-b191-5dd2-bb04-86f0848e6265",
+        "Step": 11,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.93,
+        "HighAvg": 12.54,
+        "LowAvg": 12.68,
+        "Fine": 0.27
+      },
+      {
+        "Id": "efc79eec-c1a8-0c19-0d09-774c5baeafee",
+        "Step": 15,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.02,
+        "HighAvg": 9.93,
+        "LowAvg": 6.45,
+        "Fine": 0.26
+      }
+    ]
+  },
+  {
+    "Id": "0ea109f3-d6ad-1e88-f74e-01341736c1a3",
+    "Manufacturer": "KINGrinder",
+    "Model": "K2-AR",
+    "Grinds": [
+      {
+        "Id": "2806b4d0-26f8-2e59-e210-f0884d5c3014",
+        "Step": 28,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 7.35,
+        "HighAvg": 14.19,
+        "LowAvg": 7.74,
+        "Fine": 0.21
+      },
+      {
+        "Id": "427eb280-88a2-c5a4-8562-987160d64af1",
+        "Step": 35,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.5,
+        "HighAvg": 6.55,
+        "LowAvg": 3.69,
+        "Fine": 0.22
+      },
+      {
+        "Id": "64406478-b4b6-7c4a-242a-5ead8607964e",
+        "Step": 26,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.76,
+        "HighAvg": 14.01,
+        "LowAvg": 12.74,
+        "Fine": 0.21
+      },
+      {
+        "Id": "6f53af08-d3f6-add5-9e34-0f83bf1d4c6d",
+        "Step": 25,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.68,
+        "HighAvg": 13.45,
+        "LowAvg": 14.4,
+        "Fine": 0.12
+      },
+      {
+        "Id": "aa48f049-5a00-af54-a61e-11354a3d52bb",
+        "Step": 32,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.6,
+        "HighAvg": 9.86,
+        "LowAvg": 5.28,
+        "Fine": 0.11
+      },
+      {
+        "Id": "ab6e9b8f-674d-9c1f-00fc-d50985827b74",
+        "Step": 33,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.43,
+        "HighAvg": 8.33,
+        "LowAvg": 4.79,
+        "Fine": 0.28
+      },
+      {
+        "Id": "bbf767cb-d96d-0847-f5ff-fb3818987509",
+        "Step": 36,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.7,
+        "HighAvg": 5.48,
+        "LowAvg": 3.5,
+        "Fine": 0.14
+      },
+      {
+        "Id": "dc62ee40-ba94-8f03-5a43-397cad30339b",
+        "Step": 34,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.93,
+        "HighAvg": 6.86,
+        "LowAvg": 3.79,
+        "Fine": 0.27
+      },
+      {
+        "Id": "de977274-a812-aafa-3e11-f0f866f3e0b8",
+        "Step": 29,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 9.64,
+        "HighAvg": 13.13,
+        "LowAvg": 6.59,
+        "Fine": 0.27
+      },
+      {
+        "Id": "e6fae574-2454-21bb-17ea-704338369301",
+        "Step": 27,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.04,
+        "HighAvg": 15.01,
+        "LowAvg": 9.46,
+        "Fine": 0.17
+      },
+      {
+        "Id": "ec29b890-7a84-4144-35cd-3ff51db77689",
+        "Step": 31,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 12.54,
+        "HighAvg": 10.89,
+        "LowAvg": 6.22,
+        "Fine": 0.23
+      },
+      {
+        "Id": "ff251127-307f-a92b-ddfe-822e897bc700",
+        "Step": 30,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.54,
+        "HighAvg": 12.44,
+        "LowAvg": 6.72,
+        "Fine": 0.2
+      }
+    ]
+  },
+  {
+    "Id": "0ed77906-3534-9c10-9a58-d9132a75e824",
+    "Manufacturer": "Mahlk\u00F6nig",
+    "Model": "EK43(turkish)  \u0414\u0438\u0441\u043A 1-11",
+    "Grinds": [
+      {
+        "Id": "2185256f-dbe3-dec4-7179-dcb7c668ad02",
+        "Step": 8,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.37,
+        "HighAvg": 6.93,
+        "LowAvg": 5.86,
+        "Fine": 0.58
+      },
+      {
+        "Id": "2337189b-fabc-6e1f-2b8a-2485342c7e05",
+        "Step": 4,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 0.65,
+        "HighAvg": 14.47,
+        "LowAvg": 13.31,
+        "Fine": 1.4
+      },
+      {
+        "Id": "254e1b05-706b-988c-8d91-8d747faf56de",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.24,
+        "HighAvg": 11.99,
+        "LowAvg": 15.36,
+        "Fine": 2.11
+      },
+      {
+        "Id": "3aa3fac7-988f-f3fe-6d51-f874ba3d1c05",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.51,
+        "HighAvg": 16.33,
+        "LowAvg": 10.17,
+        "Fine": 1.7
+      },
+      {
+        "Id": "4cbe782e-529a-9fd4-9763-91c2db9ee8ef",
+        "Step": 11,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 23.05,
+        "HighAvg": 2.79,
+        "LowAvg": 3.12,
+        "Fine": 1.12
+      },
+      {
+        "Id": "5376e305-400a-6fc8-e089-c9ce81fd16c8",
+        "Step": 8,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 17.97,
+        "HighAvg": 5.55,
+        "LowAvg": 5.1,
+        "Fine": 1.09
+      },
+      {
+        "Id": "5f9e7e94-c650-8fe3-cb8f-5ac383c30915",
+        "Step": 7,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 14.04,
+        "HighAvg": 8.43,
+        "LowAvg": 5.83,
+        "Fine": 1.3
+      },
+      {
+        "Id": "6ff67b8d-791f-6772-90b1-1434154dbed9",
+        "Step": 9,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 20.24,
+        "HighAvg": 4.09,
+        "LowAvg": 4.415,
+        "Fine": 0.965
+      },
+      {
+        "Id": "a5e26fef-5428-9a39-8293-8d11aa6401da",
+        "Step": 5,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 3.61,
+        "HighAvg": 15.48,
+        "LowAvg": 9.25,
+        "Fine": 1.4
+      },
+      {
+        "Id": "ae2c4f9e-9c60-cc8f-c1f3-4d7fdd103498",
+        "Step": 6,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 8.82,
+        "HighAvg": 12.24,
+        "LowAvg": 7.19,
+        "Fine": 1.37
+      },
+      {
+        "Id": "b670db74-b385-c8fc-19a6-320c006ae781",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.62,
+        "HighAvg": 3.44,
+        "LowAvg": 4.025,
+        "Fine": 0.62
+      },
+      {
+        "Id": "c6b33fd3-2e6c-b47e-496c-d407e742b4b8",
+        "Step": 7,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 11.7,
+        "HighAvg": 10.28,
+        "LowAvg": 6.77,
+        "Fine": 1.25
+      },
+      {
+        "Id": "ceba7d26-1cfc-512d-6562-4422ec7e3c16",
+        "Step": 9,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.88,
+        "HighAvg": 4.48,
+        "LowAvg": 4.6,
+        "Fine": 0.83
+      },
+      {
+        "Id": "d641599d-43f6-e73d-fbf0-9866b49cc020",
+        "Step": 10,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 22.25,
+        "HighAvg": 3.01,
+        "LowAvg": 3.88,
+        "Fine": 0.82
+      },
+      {
+        "Id": "e42112d3-b017-d594-1993-eed9f0436fa9",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 6.34,
+        "HighAvg": 14.17,
+        "LowAvg": 7.75,
+        "Fine": 1.51
+      }
+    ]
+  },
+  {
+    "Id": "0fdccac9-3ec3-cebe-4757-ab1964e7b8d9",
+    "Manufacturer": "Comandante",
+    "Model": "C40",
+    "Grinds": [
+      {
+        "Id": "017beea5-450b-cb1b-5241-e6c1ffba81ab",
+        "Step": 27,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.88,
+        "HighAvg": 4.49,
+        "LowAvg": 3.01,
+        "Fine": 0.18
+      },
+      {
+        "Id": "0c60ecaf-6b51-b9ff-de73-fe5cd0d183ee",
+        "Step": 31,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 23.64,
+        "HighAvg": 3.43,
+        "LowAvg": 2.58,
+        "Fine": 0.1
+      },
+      {
+        "Id": "1660b065-622d-0b6f-9c27-f967e33d6e32",
+        "Step": 25,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.43,
+        "HighAvg": 6.19,
+        "LowAvg": 3.75,
+        "Fine": 0.24
+      },
+      {
+        "Id": "4b307927-4f6d-4675-6644-28df5bbccaa2",
+        "Step": 29,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.76,
+        "HighAvg": 3.96,
+        "LowAvg": 2.79,
+        "Fine": 0.14
+      },
+      {
+        "Id": "98130e73-a967-413b-924c-03c3a6781cb0",
+        "Step": 13,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.64,
+        "HighAvg": 11.55,
+        "LowAvg": 15.83,
+        "Fine": 0.4
+      },
+      {
+        "Id": "b9f69e94-c23a-f543-a897-cd3b720ffd44",
+        "Step": 19,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 9.71,
+        "HighAvg": 12.22,
+        "LowAvg": 7.23,
+        "Fine": 0.35
+      },
+      {
+        "Id": "c4a29d69-ea93-0cd2-20c5-14af0342619d",
+        "Step": 21,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.35,
+        "HighAvg": 10.05,
+        "LowAvg": 5.86,
+        "Fine": 0.38
+      },
+      {
+        "Id": "cf9751ca-de88-bb2d-907e-eb6aa596da1d",
+        "Step": 23,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.99,
+        "HighAvg": 7.88,
+        "LowAvg": 4.49,
+        "Fine": 0.3
+      },
+      {
+        "Id": "d4490522-f003-d577-c3fc-eeba4940b5fb",
+        "Step": 15,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.7,
+        "HighAvg": 13.43,
+        "LowAvg": 12.93,
+        "Fine": 0.37
+      },
+      {
+        "Id": "e1add602-33ac-59c9-268a-9226203ee2f3",
+        "Step": 11,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.58,
+        "HighAvg": 9.67,
+        "LowAvg": 18.72,
+        "Fine": 0.42
+      },
+      {
+        "Id": "e3bb8540-f2af-0721-6738-9ce87e29167f",
+        "Step": 17,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.89,
+        "HighAvg": 12.83,
+        "LowAvg": 10.08,
+        "Fine": 0.39
+      }
+    ]
+  },
+  {
+    "Id": "1189d421-95fd-7775-3f1c-f295f8b22da0",
+    "Manufacturer": "1Zpresso",
+    "Model": "Q2",
+    "Grinds": [
+      {
+        "Id": "0247d627-672c-63ce-b58e-87f907a59a11",
+        "Step": 42,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.01,
+        "HighAvg": 12.54,
+        "LowAvg": 13.28,
+        "Fine": 0.39
+      },
+      {
+        "Id": "235cfc03-7b36-48c7-470b-9670a6aa01fa",
+        "Step": 57,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 15.09,
+        "HighAvg": 8.84,
+        "LowAvg": 5.74,
+        "Fine": 0.2
+      },
+      {
+        "Id": "26d370b4-5fc3-7164-0799-33e007949fe2",
+        "Step": 66,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.19,
+        "HighAvg": 5.51,
+        "LowAvg": 4.24,
+        "Fine": 0.54
+      },
+      {
+        "Id": "2b2ffa3b-6131-e2a7-42b8-426eea9a2b74",
+        "Step": 63,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.27,
+        "HighAvg": 6.75,
+        "LowAvg": 5.11,
+        "Fine": 0.6
+      },
+      {
+        "Id": "5c334705-ca7e-9a9c-968e-703ebf855e45",
+        "Step": 48,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 6.25,
+        "HighAvg": 13.28,
+        "LowAvg": 9.6,
+        "Fine": 0.54
+      },
+      {
+        "Id": "99f89de4-ca0d-052b-aef8-7cdbe061ea6f",
+        "Step": 60,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 15.42,
+        "HighAvg": 8.34,
+        "LowAvg": 5.72,
+        "Fine": 0.27
+      },
+      {
+        "Id": "afa3170d-39fa-2618-683d-f757ff3689be",
+        "Step": 39,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.51,
+        "HighAvg": 10.35,
+        "LowAvg": 17.18,
+        "Fine": 0.29
+      },
+      {
+        "Id": "b003867b-4ce4-da97-578d-aee00f301fc8",
+        "Step": 45,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 4.95,
+        "HighAvg": 18.46,
+        "LowAvg": 11.22,
+        "Fine": 0.14
+      },
+      {
+        "Id": "fe34b7b8-7d00-7875-7914-f5106dac0807",
+        "Step": 54,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.78,
+        "HighAvg": 11.32,
+        "LowAvg": 7.31,
+        "Fine": 0.26
+      },
+      {
+        "Id": "ff9308b7-38eb-4455-c7df-3e381470c6cc",
+        "Step": 51,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 9.04,
+        "HighAvg": 12.06,
+        "LowAvg": 8.21,
+        "Fine": 0.41
+      }
+    ]
+  },
+  {
+    "Id": "12c3019f-9755-10ec-b07e-95506ae03c2f",
+    "Manufacturer": "Timemore",
+    "Model": "Grinder Go",
+    "Grinds": [
+      {
+        "Id": "2d220206-77cd-86b4-f21f-ad574d9e37f7",
+        "Step": 7,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.62,
+        "HighAvg": 7.89,
+        "LowAvg": 5.48,
+        "Fine": 1.86
+      },
+      {
+        "Id": "3a7376cd-2b88-0783-64d2-2d0134fbdb9d",
+        "Step": 9,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.08,
+        "HighAvg": 6.81,
+        "LowAvg": 5.28,
+        "Fine": 1.07
+      },
+      {
+        "Id": "45bf92d5-2bf1-3606-380b-38efa95541e6",
+        "Step": 1,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.89,
+        "HighAvg": 11.08,
+        "LowAvg": 13.89,
+        "Fine": 0.85
+      },
+      {
+        "Id": "7f48e28c-e922-a8bf-bb3e-91fc1c484711",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.06,
+        "HighAvg": 8.64,
+        "LowAvg": 6,
+        "Fine": 2.03
+      },
+      {
+        "Id": "8cd74974-153e-5b58-f89b-2ceaf1356d20",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 11.47,
+        "HighAvg": 9.22,
+        "LowAvg": 6.33,
+        "Fine": 2.88
+      },
+      {
+        "Id": "93a48e20-65c1-a77b-1ae5-85a89186c232",
+        "Step": 11,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.07,
+        "HighAvg": 4.73,
+        "LowAvg": 3.69,
+        "Fine": 0.71
+      },
+      {
+        "Id": "c0f73e65-cb7b-69c4-8c9e-0e7d700a6dcd",
+        "Step": 3,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.31,
+        "HighAvg": 9.81,
+        "LowAvg": 8.84,
+        "Fine": 0.77
+      },
+      {
+        "Id": "d4e2b131-c30c-2a47-6cb2-d1ccfc7886b3",
+        "Step": 2,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 8.47,
+        "HighAvg": 10.46,
+        "LowAvg": 9.84,
+        "Fine": 0.96
+      },
+      {
+        "Id": "e18f1643-ee49-2e57-8473-a14bb7439a8c",
+        "Step": 8,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.6,
+        "HighAvg": 6.81,
+        "LowAvg": 5.28,
+        "Fine": 1.07
+      },
+      {
+        "Id": "e8d9add0-c36b-6cd4-86b3-4c53189aa9b3",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.6,
+        "HighAvg": 9.7,
+        "LowAvg": 9,
+        "Fine": 0.3
+      },
+      {
+        "Id": "efc2a7f7-9740-ab31-1968-e3658617f152",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.44,
+        "HighAvg": 5.34,
+        "LowAvg": 4.39,
+        "Fine": 0.64
+      }
+    ]
+  },
+  {
+    "Id": "14ea3d50-d09c-7b09-13b4-4824fb8a68d8",
+    "Manufacturer": "Eureka",
+    "Model": "Drogheria",
+    "Grinds": [
+      {
+        "Id": "05f5461e-938c-8423-3954-88e318e5d0a6",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.93,
+        "HighAvg": 6.81,
+        "LowAvg": 8.05,
+        "Fine": 0.2
+      },
+      {
+        "Id": "0ba61652-de48-4ad2-0e55-b4d96b569acf",
+        "Step": 7,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 22.06,
+        "HighAvg": 3.19,
+        "LowAvg": 3.95,
+        "Fine": 0.52
+      },
+      {
+        "Id": "2450d89f-0d15-04ce-8cbc-f2c2fd82e0b8",
+        "Step": 5,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 17.89,
+        "HighAvg": 5.21,
+        "LowAvg": 5.91,
+        "Fine": 0.65
+      },
+      {
+        "Id": "2690462a-a387-7713-3f10-44c043a88e68",
+        "Step": 6,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 20.25,
+        "HighAvg": 3.99,
+        "LowAvg": 4.57,
+        "Fine": 0.76
+      },
+      {
+        "Id": "42ef2a03-2812-49e3-52a8-8958b44cf1e5",
+        "Step": 3,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 4.37,
+        "HighAvg": 11.44,
+        "LowAvg": 12.98,
+        "Fine": 0.62
+      },
+      {
+        "Id": "69d9baf3-8b36-22cd-f245-69b43271babc",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 9.85,
+        "HighAvg": 9.54,
+        "LowAvg": 9.69,
+        "Fine": 0.52
+      },
+      {
+        "Id": "73793a19-e912-b41f-64f2-d8422ce95afe",
+        "Step": 4,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 13.31,
+        "HighAvg": 7.78,
+        "LowAvg": 7.88,
+        "Fine": 0.47
+      },
+      {
+        "Id": "739dba57-1542-99bd-9320-913de2bc65bb",
+        "Step": 2,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 1.82,
+        "HighAvg": 10.85,
+        "LowAvg": 15.95,
+        "Fine": 0.65
+      },
+      {
+        "Id": "8b584288-1c0c-571a-bc4b-af9220949908",
+        "Step": 2,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.69,
+        "HighAvg": 8.25,
+        "LowAvg": 19.98,
+        "Fine": 0.53
+      },
+      {
+        "Id": "b193774f-062a-f0a2-28b7-ae96ca0dafda",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.36,
+        "HighAvg": 4.98,
+        "LowAvg": 5.55,
+        "Fine": 0.74
+      },
+      {
+        "Id": "bb474b05-7b8a-230f-6bcf-fd36367ac037",
+        "Step": 7,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.83,
+        "HighAvg": 3.68,
+        "LowAvg": 4.69,
+        "Fine": 0.47
+      },
+      {
+        "Id": "d511fb16-bd29-aed8-458f-2103e2fbe165",
+        "Step": 3,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 7.7,
+        "HighAvg": 10.52,
+        "LowAvg": 10.79,
+        "Fine": 0.61
+      },
+      {
+        "Id": "fcb9428f-cd6f-7170-b6ba-22af2ab9ae6c",
+        "Step": 8,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 23.03,
+        "HighAvg": 2.86,
+        "LowAvg": 3.28,
+        "Fine": 0.5
+      }
+    ]
+  },
+  {
+    "Id": "1b088e70-5faa-2b16-361d-44b8ee5e95a1",
+    "Manufacturer": "Baratza",
+    "Model": "Sette 30",
+    "Grinds": [
+      {
+        "Id": "0bd0bd2f-1cfe-1c57-581c-45cfd8d2d390",
+        "Step": 29,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.88,
+        "HighAvg": 3.93,
+        "LowAvg": 7.35,
+        "Fine": 0.42
+      },
+      {
+        "Id": "27deaaf7-631c-dee8-2f97-36b500f2bde3",
+        "Step": 15,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.43,
+        "HighAvg": 11.62,
+        "LowAvg": 13.94,
+        "Fine": 0.56
+      },
+      {
+        "Id": "368f0330-5d70-b630-1f61-b577019b212d",
+        "Step": 13,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.38,
+        "HighAvg": 11.26,
+        "LowAvg": 16.33,
+        "Fine": 0.53
+      },
+      {
+        "Id": "3aa16ada-d579-489a-411a-3959b71686ec",
+        "Step": 21,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.04,
+        "HighAvg": 6.13,
+        "LowAvg": 8.88,
+        "Fine": 0.61
+      },
+      {
+        "Id": "4090ab47-77d3-12c5-13c0-b99f67cc5d99",
+        "Step": 11,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.38,
+        "HighAvg": 8.47,
+        "LowAvg": 19.93,
+        "Fine": 0.65
+      },
+      {
+        "Id": "485883f6-8d57-e6b2-504b-e70f1f15bf94",
+        "Step": 23,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 15.17,
+        "HighAvg": 5.31,
+        "LowAvg": 8.71,
+        "Fine": 0.44
+      },
+      {
+        "Id": "af8551f0-52d2-6c0a-226e-09a1270e2b2d",
+        "Step": 31,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.44,
+        "HighAvg": 3.65,
+        "LowAvg": 7.2,
+        "Fine": 0.35
+      },
+      {
+        "Id": "be313019-41de-4f27-ef7a-f994784b84af",
+        "Step": 19,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 11.08,
+        "HighAvg": 7.83,
+        "LowAvg": 10.02,
+        "Fine": 0.56
+      },
+      {
+        "Id": "c9aa7e87-efc9-8353-08b9-e7f728e109dd",
+        "Step": 17,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 6.5,
+        "HighAvg": 10.45,
+        "LowAvg": 12.23,
+        "Fine": 0.37
+      },
+      {
+        "Id": "dbc206b0-00da-9e23-2301-8731c6a2e0a7",
+        "Step": 27,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.62,
+        "HighAvg": 4.1,
+        "LowAvg": 7.46,
+        "Fine": 0.46
+      },
+      {
+        "Id": "eea4d2e8-40bf-98ad-512c-a415c75e1a8c",
+        "Step": 9,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.53,
+        "HighAvg": 4.61,
+        "LowAvg": 24.2,
+        "Fine": 0.54
+      },
+      {
+        "Id": "f86509c5-3fba-146c-c913-0441302e4a1c",
+        "Step": 25,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.17,
+        "HighAvg": 4.7,
+        "LowAvg": 8.41,
+        "Fine": 0.31
+      }
+    ]
+  },
+  {
+    "Id": "1b3b0b98-50ff-4002-0437-c7ade774f5c9",
+    "Manufacturer": "Baratza",
+    "Model": "Encore",
+    "Grinds": [
+      {
+        "Id": "0b9187ca-b3e4-a8bf-a0f5-e156cda7aceb",
+        "Step": 11,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.28,
+        "HighAvg": 10.36,
+        "LowAvg": 8.34,
+        "Fine": 0.65
+      },
+      {
+        "Id": "4b1f7fd0-edf5-d1af-09d8-74a630f3b3e1",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.48,
+        "HighAvg": 12.66,
+        "LowAvg": 12.67,
+        "Fine": 0.88
+      },
+      {
+        "Id": "5dea00cc-0472-1357-54ec-52434c256362",
+        "Step": 12,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 11.99,
+        "HighAvg": 9.51,
+        "LowAvg": 7.21,
+        "Fine": 0.86
+      },
+      {
+        "Id": "79493e7c-1ddd-cb92-ac7f-3bd08bc465e7",
+        "Step": 3,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.08,
+        "HighAvg": 4.38,
+        "LowAvg": 24.08,
+        "Fine": 0.8
+      },
+      {
+        "Id": "8224c82b-8a24-f066-4760-fba359ed7037",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.37,
+        "HighAvg": 8.11,
+        "LowAvg": 20.27,
+        "Fine": 0.72
+      },
+      {
+        "Id": "8f4e5f90-3e2b-e8dc-1400-f9e0b6007345",
+        "Step": 20,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 23.91,
+        "HighAvg": 2.7,
+        "LowAvg": 2.7,
+        "Fine": 0.48
+      },
+      {
+        "Id": "a3c2f19e-d6cb-c23b-6718-135fcfe47603",
+        "Step": 18,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.58,
+        "HighAvg": 3.48,
+        "LowAvg": 3.16,
+        "Fine": 0.57
+      },
+      {
+        "Id": "c39644b8-1ab8-b286-5c77-d39b98f0cf09",
+        "Step": 16,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.46,
+        "HighAvg": 4.76,
+        "LowAvg": 3.89,
+        "Fine": 0.56
+      },
+      {
+        "Id": "cb13c9e7-71ea-d336-44c4-e5d6eb796068",
+        "Step": 14,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.77,
+        "HighAvg": 6.99,
+        "LowAvg": 5.41,
+        "Fine": 0.52
+      },
+      {
+        "Id": "d83dbb1b-8b04-60a7-5423-a0c44ebf0328",
+        "Step": 7,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.33,
+        "HighAvg": 11.12,
+        "LowAvg": 16.44,
+        "Fine": 0.63
+      }
+    ]
+  },
+  {
+    "Id": "218de952-b9d0-0ed8-ed4a-6977317f3d5d",
+    "Manufacturer": "Feldgrind",
+    "Model": "2",
+    "Grinds": [
+      {
+        "Id": "032f2f10-0096-8c81-ae0e-4f43a8858ad9",
+        "Step": 2,
+        "SubStep": 8,
+        "Amount": 30,
+        "Coarse": 9.09,
+        "HighAvg": 10.21,
+        "LowAvg": 9.91,
+        "Fine": 0.46
+      },
+      {
+        "Id": "1d62fae3-467b-70a0-26b4-d148751d0bd8",
+        "Step": 2,
+        "SubStep": 2,
+        "Amount": 30,
+        "Coarse": 0.685,
+        "HighAvg": 8.54,
+        "LowAvg": 19.08,
+        "Fine": 1.27
+      },
+      {
+        "Id": "3ca177d3-ccd0-60e0-8ac8-6f013fa292c1",
+        "Step": 3,
+        "SubStep": 4,
+        "Amount": 30,
+        "Coarse": 19.6,
+        "HighAvg": 5.04,
+        "LowAvg": 4.43,
+        "Fine": 0.77
+      },
+      {
+        "Id": "3d186d63-5636-70ea-7bca-6340ccec89ca",
+        "Step": 2,
+        "SubStep": 1,
+        "Amount": 30,
+        "Coarse": 12.66,
+        "HighAvg": 8.66,
+        "LowAvg": 7.67,
+        "Fine": 0.65
+      },
+      {
+        "Id": "41a933ab-92ae-4c5a-bf78-936eaa0ea727",
+        "Step": 2,
+        "SubStep": 11,
+        "Amount": 30,
+        "Coarse": 14.38,
+        "HighAvg": 7.56,
+        "LowAvg": 7.21,
+        "Fine": 0.55
+      },
+      {
+        "Id": "4edb9dcf-60c7-1c44-6f1e-d581a1fd2166",
+        "Step": 2,
+        "SubStep": 6,
+        "Amount": 30,
+        "Coarse": 5.34,
+        "HighAvg": 11.57,
+        "LowAvg": 12.06,
+        "Fine": 0.69
+      },
+      {
+        "Id": "529e2d1e-85cd-eb00-8cb4-d28ba76a2f12",
+        "Step": 2,
+        "SubStep": 12,
+        "Amount": 30,
+        "Coarse": 15.01,
+        "HighAvg": 7.14,
+        "LowAvg": 6.87,
+        "Fine": 0.5
+      },
+      {
+        "Id": "61b35b19-3e13-7726-7cd9-63014058c5eb",
+        "Step": 3,
+        "SubStep": 3,
+        "Amount": 30,
+        "Coarse": 18.5,
+        "HighAvg": 5.41,
+        "LowAvg": 5.52,
+        "Fine": 0.39
+      },
+      {
+        "Id": "8084110a-88de-f2a9-863e-4a7e35e08a6a",
+        "Step": 3,
+        "SubStep": 1,
+        "Amount": 30,
+        "Coarse": 16.59,
+        "HighAvg": 6.43,
+        "LowAvg": 6.18,
+        "Fine": 0.55
+      },
+      {
+        "Id": "87cab123-31fc-e5d6-8c22-7a21c2571edf",
+        "Step": 2,
+        "SubStep": 4,
+        "Amount": 30,
+        "Coarse": 2.2,
+        "HighAvg": 11.26,
+        "LowAvg": 15.49,
+        "Fine": 0.69
+      },
+      {
+        "Id": "8bc7c405-b5ab-d43b-ee0e-b743f6aedcba",
+        "Step": 2,
+        "SubStep": 3,
+        "Amount": 30,
+        "Coarse": 0.99,
+        "HighAvg": 9.79,
+        "LowAvg": 17.56,
+        "Fine": 1.01
+      },
+      {
+        "Id": "938c50d5-11cf-a893-3cc7-148b60580a42",
+        "Step": 2,
+        "SubStep": 9,
+        "Amount": 30,
+        "Coarse": 10.67,
+        "HighAvg": 9.48,
+        "LowAvg": 8.96,
+        "Fine": 0.56
+      },
+      {
+        "Id": "9e4ba3b0-aa6f-d2a7-f5c7-10ab20c568e8",
+        "Step": 3,
+        "SubStep": 2,
+        "Amount": 30,
+        "Coarse": 17.55,
+        "HighAvg": 5.97,
+        "LowAvg": 5.56,
+        "Fine": 0.6
+      },
+      {
+        "Id": "9f5710f3-fa5f-5fec-ab61-f79bb70efae4",
+        "Step": 2,
+        "SubStep": 1,
+        "Amount": 30,
+        "Coarse": 0.295,
+        "HighAvg": 7.11,
+        "LowAvg": 21.23,
+        "Fine": 0.84
+      },
+      {
+        "Id": "a134a7ee-0b1b-5d0e-847e-b3ce7dd98a23",
+        "Step": 3,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 20.17,
+        "HighAvg": 4.72,
+        "LowAvg": 4.42,
+        "Fine": 0.37
+      },
+      {
+        "Id": "addd3219-9345-6533-c482-893c589de43d",
+        "Step": 2,
+        "SubStep": 7,
+        "Amount": 30,
+        "Coarse": 7.23,
+        "HighAvg": 10.87,
+        "LowAvg": 10.97,
+        "Fine": 0.45
+      },
+      {
+        "Id": "da61352f-c64b-8664-b7d8-625ac952b649",
+        "Step": 2,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 3.7,
+        "HighAvg": 11.54,
+        "LowAvg": 13.44,
+        "Fine": 0.81
+      }
+    ]
+  },
+  {
+    "Id": "2215caf1-1195-2f00-7b73-8c48926e7837",
+    "Manufacturer": "Timemore",
+    "Model": "Chestnut C2",
+    "Grinds": [
+      {
+        "Id": "12af26b4-9c08-1b50-d7f1-fce0611156d2",
+        "Step": 14,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.86,
+        "HighAvg": 11.51,
+        "LowAvg": 11.91,
+        "Fine": 0.41
+      },
+      {
+        "Id": "21e3c8db-c60d-e944-274e-8875ceb0130b",
+        "Step": 24,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.41,
+        "HighAvg": 3.47,
+        "LowAvg": 3.63,
+        "Fine": 0.23
+      },
+      {
+        "Id": "43b01707-ddbd-acc6-c8b3-3e025b11aa13",
+        "Step": 16,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.18,
+        "HighAvg": 10.13,
+        "LowAvg": 8.84,
+        "Fine": 0.54
+      },
+      {
+        "Id": "4cf4f25a-8bb4-78f7-e090-d7898a050836",
+        "Step": 12,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.39,
+        "HighAvg": 11.15,
+        "LowAvg": 15.57,
+        "Fine": 0.49
+      },
+      {
+        "Id": "5289171b-2f37-653c-1a3b-53f8887b0c93",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.84,
+        "HighAvg": 7.93,
+        "LowAvg": 20.08,
+        "Fine": 0.65
+      },
+      {
+        "Id": "62cf99b2-f80e-bf3c-9654-df7a54bf5f0c",
+        "Step": 20,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.53,
+        "HighAvg": 5.58,
+        "LowAvg": 5.43,
+        "Fine": 0.34
+      },
+      {
+        "Id": "9b4f0292-d918-d782-a33d-dee45e23c570",
+        "Step": 22,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.72,
+        "HighAvg": 4.38,
+        "LowAvg": 4.41,
+        "Fine": 0.26
+      },
+      {
+        "Id": "acce8cc8-e6b8-6df5-3af9-25f7b0bf2738",
+        "Step": 18,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.36,
+        "HighAvg": 7.91,
+        "LowAvg": 7.1,
+        "Fine": 0.37
+      }
+    ]
+  },
+  {
+    "Id": "253c4c05-a2fb-b963-f2ba-f0e873a1aaf5",
+    "Manufacturer": "Saint Anthony",
+    "Model": "Millwright",
+    "Grinds": [
+      {
+        "Id": "003cf90d-8677-984b-1221-b7d01b279cd6",
+        "Step": 33,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.5,
+        "HighAvg": 10.09,
+        "LowAvg": 8.13,
+        "Fine": 0.98
+      },
+      {
+        "Id": "27f60565-7d24-8016-99be-47a2dfc08822",
+        "Step": 47,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.67,
+        "HighAvg": 5.88,
+        "LowAvg": 4.77,
+        "Fine": 0.33
+      },
+      {
+        "Id": "2f12dcbc-486d-2662-5e6c-1a7709d26567",
+        "Step": 20,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.07,
+        "HighAvg": 11.42,
+        "LowAvg": 15.24,
+        "Fine": 0.86
+      },
+      {
+        "Id": "59ecb3ed-6f76-d855-2ea4-aa23089284c8",
+        "Step": 23,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.61,
+        "HighAvg": 11.96,
+        "LowAvg": 13.16,
+        "Fine": 0.98
+      },
+      {
+        "Id": "6b247f7a-3d5f-0db9-7ee7-6c43dad5e317",
+        "Step": 17,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.15,
+        "HighAvg": 10.47,
+        "LowAvg": 17.02,
+        "Fine": 0.99
+      },
+      {
+        "Id": "7149a047-505b-e8a0-707e-8b90f8ea9dcd",
+        "Step": 45,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.82,
+        "HighAvg": 6.3,
+        "LowAvg": 4.95,
+        "Fine": 0.63
+      },
+      {
+        "Id": "95c28609-c4ac-2a57-706b-606b1f0ff70e",
+        "Step": 27,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 8.27,
+        "HighAvg": 11.05,
+        "LowAvg": 9.71,
+        "Fine": 0.69
+      },
+      {
+        "Id": "95fe750d-348e-0b7a-9d34-3f82bad04e3f",
+        "Step": 35,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 12.01,
+        "HighAvg": 9.36,
+        "LowAvg": 7.41,
+        "Fine": 0.97
+      },
+      {
+        "Id": "a09ff425-baf1-4f30-aef1-17aba3ff4603",
+        "Step": 50,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.66,
+        "HighAvg": 5.38,
+        "LowAvg": 4.28,
+        "Fine": 0.31
+      },
+      {
+        "Id": "a47d62db-443f-b7f8-1d6e-e206c07efeff",
+        "Step": 30,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 8.09,
+        "HighAvg": 11.12,
+        "LowAvg": 9.73,
+        "Fine": 0.68
+      },
+      {
+        "Id": "a58a79d3-7260-5185-45fb-0c91febbc9aa",
+        "Step": 40,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 15.91,
+        "HighAvg": 7.45,
+        "LowAvg": 5.65,
+        "Fine": 0.76
+      },
+      {
+        "Id": "b026ebfd-083c-c45c-9967-42376ab4aa0e",
+        "Step": 43,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.74,
+        "HighAvg": 6.52,
+        "LowAvg": 4.72,
+        "Fine": 0.78
+      },
+      {
+        "Id": "ee37e449-9ef7-fe4b-dd67-f10f3533ee2d",
+        "Step": 25,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.6,
+        "HighAvg": 12.21,
+        "LowAvg": 10.89,
+        "Fine": 1.05
+      },
+      {
+        "Id": "ee3923fa-835c-e662-0247-27a90e3d16c9",
+        "Step": 37,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.89,
+        "HighAvg": 8.56,
+        "LowAvg": 6.65,
+        "Fine": 0.68
+      }
+    ]
+  },
+  {
+    "Id": "2670dbec-1c36-52cd-ac30-4f0cf57bf93a",
+    "Manufacturer": "Lagom",
+    "Model": "P64",
+    "Grinds": [
+      {
+        "Id": "0258f2dc-c33d-b8c0-116d-6266db7f4a7c",
+        "Step": 55,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.55,
+        "HighAvg": 5.9,
+        "LowAvg": 4.82,
+        "Fine": 0.23
+      },
+      {
+        "Id": "2cb048e3-c2f5-e27f-2d71-3e5fcbe97bfa",
+        "Step": 45,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.89,
+        "HighAvg": 9.36,
+        "LowAvg": 5.89,
+        "Fine": 0.26
+      },
+      {
+        "Id": "31768c6f-669e-2f15-ee6c-0d3d66df24c4",
+        "Step": 60,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.93,
+        "HighAvg": 4.82,
+        "LowAvg": 4.72,
+        "Fine": 0.13
+      },
+      {
+        "Id": "4085dd8a-48f8-64a0-3531-c4ff3e32266f",
+        "Step": 70,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.64,
+        "HighAvg": 3.48,
+        "LowAvg": 3.43,
+        "Fine": 0.2
+      },
+      {
+        "Id": "48dc79af-1593-8dfe-cf7d-ad7cc89424ca",
+        "Step": 20,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.38,
+        "HighAvg": 9.47,
+        "LowAvg": 19.25,
+        "Fine": 0.25
+      },
+      {
+        "Id": "4c426610-3ad1-fd91-38d9-b70f55b82b87",
+        "Step": 25,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.88,
+        "HighAvg": 12.57,
+        "LowAvg": 14.71,
+        "Fine": 0.24
+      },
+      {
+        "Id": "9bfa660d-4924-0c0a-b2bb-799341f67545",
+        "Step": 50,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.19,
+        "HighAvg": 6.98,
+        "LowAvg": 4.91,
+        "Fine": 0.32
+      },
+      {
+        "Id": "a8afa9f3-3aa6-c28b-6eeb-4a7eeae809b8",
+        "Step": 40,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.59,
+        "HighAvg": 11.74,
+        "LowAvg": 6.87,
+        "Fine": 0.2
+      },
+      {
+        "Id": "b5364e47-daa3-ce7a-00ab-9044919ffc2f",
+        "Step": 35,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 6.98,
+        "HighAvg": 13.7,
+        "LowAvg": 8.52,
+        "Fine": 0.25
+      },
+      {
+        "Id": "b807e0af-25b6-59ab-30cd-a65654f7b551",
+        "Step": 65,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.29,
+        "HighAvg": 4.15,
+        "LowAvg": 4.08,
+        "Fine": 0.21
+      },
+      {
+        "Id": "fa8596c9-9696-a6d4-5a36-40385d9f1e57",
+        "Step": 30,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.37,
+        "HighAvg": 15.66,
+        "LowAvg": 10.17,
+        "Fine": 0.23
+      }
+    ]
+  },
+  {
+    "Id": "26adbac8-9b8e-3080-5f2d-52d4271c3e56",
+    "Manufacturer": "Wilfa",
+    "Model": "Svart Nymalt",
+    "Grinds": [
+      {
+        "Id": "1d7d09bc-d6db-aba4-e48b-b678c31d9b9a",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.24,
+        "HighAvg": 7.8,
+        "LowAvg": 8.19,
+        "Fine": 0.46
+      },
+      {
+        "Id": "23879571-46c5-deae-a7cb-177ea3bec60f",
+        "Step": 8,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 9.82,
+        "HighAvg": 9.45,
+        "LowAvg": 9.87,
+        "Fine": 0.51
+      },
+      {
+        "Id": "25132400-5a0f-98de-c1af-b3e3bfeaabbd",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.79,
+        "HighAvg": 9.85,
+        "LowAvg": 17.34,
+        "Fine": 0.59
+      },
+      {
+        "Id": "3f865b2d-f9bf-d07c-95c9-e30f052d82cf",
+        "Step": 13,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.21,
+        "HighAvg": 3.56,
+        "LowAvg": 4.5,
+        "Fine": 0.47
+      },
+      {
+        "Id": "3fa11ff3-5feb-0ee1-ef8a-c5c2488969a6",
+        "Step": 11,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.76,
+        "HighAvg": 5.45,
+        "LowAvg": 5.92,
+        "Fine": 0.58
+      },
+      {
+        "Id": "6715ca82-1b9d-7287-211b-ac0350f3c82d",
+        "Step": 7,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 7.5,
+        "HighAvg": 10.29,
+        "LowAvg": 11.43,
+        "Fine": 0.46
+      },
+      {
+        "Id": "6791b050-d2c6-8552-b2f7-0358fde207b9",
+        "Step": 14,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.43,
+        "HighAvg": 2.96,
+        "LowAvg": 4.08,
+        "Fine": 0.32
+      },
+      {
+        "Id": "67b0f0c9-1f13-eab9-18eb-ad7af3c4094b",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.28,
+        "HighAvg": 10.08,
+        "LowAvg": 13.38,
+        "Fine": 0.68
+      },
+      {
+        "Id": "6db935fe-b35a-815e-6885-76fdb26a81e1",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.24,
+        "HighAvg": 10.21,
+        "LowAvg": 15.48,
+        "Fine": 0.66
+      },
+      {
+        "Id": "e5edac76-764a-e502-3614-8e1d880ebbbc",
+        "Step": 12,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.58,
+        "HighAvg": 4.35,
+        "LowAvg": 5.25,
+        "Fine": 0.51
+      },
+      {
+        "Id": "ef483974-7746-2d50-30a8-9c32a643278e",
+        "Step": 9,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 12.4,
+        "HighAvg": 8.42,
+        "LowAvg": 8.51,
+        "Fine": 0.41
+      }
+    ]
+  },
+  {
+    "Id": "27bd608a-01f0-7138-df80-80bf11a3d1b7",
+    "Manufacturer": "Timemore",
+    "Model": "Slim",
+    "Grinds": [
+      {
+        "Id": "150c7ca1-5529-54a6-34c7-b69a28d0f2b9",
+        "Step": 16,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.37,
+        "HighAvg": 7.85,
+        "LowAvg": 7.56,
+        "Fine": 0.51
+      },
+      {
+        "Id": "3d58f5c5-120e-520c-203f-d3bd9fd54680",
+        "Step": 13,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.74,
+        "HighAvg": 10.29,
+        "LowAvg": 12.84,
+        "Fine": 0.59
+      },
+      {
+        "Id": "4b04a9e5-1c07-b003-4a91-aba761c39bb6",
+        "Step": 12,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 4.19,
+        "HighAvg": 9.7,
+        "LowAvg": 14.77,
+        "Fine": 0.64
+      },
+      {
+        "Id": "6230bdc0-a844-2a80-5a98-6c005594bb9f",
+        "Step": 19,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.62,
+        "HighAvg": 4.22,
+        "LowAvg": 4.48,
+        "Fine": 0.25
+      },
+      {
+        "Id": "6af95929-853a-0e36-50df-99852b8698b7",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.91,
+        "HighAvg": 8.47,
+        "LowAvg": 18.31,
+        "Fine": 0.7
+      },
+      {
+        "Id": "78cb153f-ecf8-a21f-a5ea-12dd786a397d",
+        "Step": 20,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.04,
+        "HighAvg": 3.52,
+        "LowAvg": 3.4,
+        "Fine": 0.51
+      },
+      {
+        "Id": "a3dd981f-44ff-b3e6-c591-0510bc5adb1a",
+        "Step": 14,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 8.24,
+        "HighAvg": 9.85,
+        "LowAvg": 10.91,
+        "Fine": 0.53
+      },
+      {
+        "Id": "d5865b78-b5e3-34be-c128-a0a9fd3b1f5b",
+        "Step": 18,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.71,
+        "HighAvg": 5.1,
+        "LowAvg": 5.31,
+        "Fine": 0.28
+      },
+      {
+        "Id": "e086843e-27f4-2150-66cd-78faa9dd9f3a",
+        "Step": 11,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.9,
+        "HighAvg": 9.74,
+        "LowAvg": 15.41,
+        "Fine": 0.47
+      },
+      {
+        "Id": "e8048003-1a4c-fca5-788f-bced6e053f80",
+        "Step": 17,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.38,
+        "HighAvg": 6.26,
+        "LowAvg": 6.35,
+        "Fine": 0.44
+      },
+      {
+        "Id": "f22fad62-9e58-ead3-8fbb-e34e4e63a049",
+        "Step": 9,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.81,
+        "HighAvg": 6.15,
+        "LowAvg": 22,
+        "Fine": 0.53
+      },
+      {
+        "Id": "f3634484-7137-c968-a235-700d24d83aeb",
+        "Step": 15,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.63,
+        "HighAvg": 9.17,
+        "LowAvg": 9.27,
+        "Fine": 0.48
+      }
+    ]
+  },
+  {
+    "Id": "2cebfab4-58f9-5cfb-17b0-ca22facd111d",
+    "Manufacturer": "Eureka",
+    "Model": "Mignon Brew Pro",
+    "Grinds": [
+      {
+        "Id": "1603a452-0b24-5d7a-afcf-2573b4d0100b",
+        "Step": 0,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.43,
+        "HighAvg": 12.03,
+        "LowAvg": 15.28,
+        "Fine": 0.77
+      },
+      {
+        "Id": "47e482c9-b036-343e-90bc-5c9bce74cbc9",
+        "Step": 9,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.67,
+        "HighAvg": 3.65,
+        "LowAvg": 3.83,
+        "Fine": 0.53
+      },
+      {
+        "Id": "4ca1324f-5d39-2dee-410a-f3cd0e8fcd59",
+        "Step": 1,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.29,
+        "HighAvg": 13.52,
+        "LowAvg": 12.19,
+        "Fine": 0.55
+      },
+      {
+        "Id": "616928df-7cd8-f8d5-f560-6620ce4bcb3a",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.6,
+        "HighAvg": 6.47,
+        "LowAvg": 6.16,
+        "Fine": 0.39
+      },
+      {
+        "Id": "77e3d2ac-4d91-2b61-cc3f-676d741e6bb6",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.97,
+        "HighAvg": 5.27,
+        "LowAvg": 4.8,
+        "Fine": 0.54
+      },
+      {
+        "Id": "92d4bd31-08fd-7189-11c9-93fb70d73b77",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.06,
+        "HighAvg": 8.26,
+        "LowAvg": 6.36,
+        "Fine": 0.82
+      },
+      {
+        "Id": "ccf68251-3c07-77ee-21dc-6571b8098ab3",
+        "Step": 7,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.43,
+        "HighAvg": 4.29,
+        "LowAvg": 4.19,
+        "Fine": 0.69
+      },
+      {
+        "Id": "dc51489e-d891-a929-b46a-a43e0701fc74",
+        "Step": 8,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.53,
+        "HighAvg": 3.7,
+        "LowAvg": 3.86,
+        "Fine": 0.5
+      },
+      {
+        "Id": "e04974f0-b10f-3308-abf0-2240ef3ce15e",
+        "Step": 3,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 11.1,
+        "HighAvg": 10.1,
+        "LowAvg": 7.69,
+        "Fine": 0.58
+      },
+      {
+        "Id": "ec28e071-af43-aaa7-d1b3-33439b81be52",
+        "Step": 2,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 7.11,
+        "HighAvg": 12.35,
+        "LowAvg": 9.54,
+        "Fine": 0.64
+      }
+    ]
+  },
+  {
+    "Id": "34fb8289-6ca3-0c01-6459-70b2657bd2c3",
+    "Manufacturer": "Mahlk\u00F6nig",
+    "Model": "EK43(coffee) \u0414\u0438\u0441\u043A 1-16",
+    "Grinds": [
+      {
+        "Id": "18a0b721-4555-3408-5dc7-c1e372a0cd71",
+        "Step": 3,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.22,
+        "HighAvg": 10.48,
+        "LowAvg": 15.97,
+        "Fine": 1.77
+      },
+      {
+        "Id": "24a937dd-2879-8f84-c732-7daa33c5a9c4",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 6.41,
+        "HighAvg": 14.08,
+        "LowAvg": 8.02,
+        "Fine": 1.06
+      },
+      {
+        "Id": "48c4a4d6-0db4-fe7c-b574-16567efec6db",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.06,
+        "HighAvg": 7.49,
+        "LowAvg": 4.52,
+        "Fine": 0.615
+      },
+      {
+        "Id": "4ff09984-cfe3-1c8c-c587-bb99b7095ed8",
+        "Step": 14,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 23.31,
+        "HighAvg": 2.99,
+        "LowAvg": 3.15,
+        "Fine": 0.29
+      },
+      {
+        "Id": "6868fc30-93a1-592b-44ce-c095c73bb9d9",
+        "Step": 9,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.56,
+        "HighAvg": 9.41,
+        "LowAvg": 5.05,
+        "Fine": 0.59
+      },
+      {
+        "Id": "817ab696-2c86-dd75-24e5-6c78e2b41b08",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.67,
+        "HighAvg": 14.37,
+        "LowAvg": 10.22,
+        "Fine": 1.17
+      },
+      {
+        "Id": "87fd681f-def1-11e3-ad03-dccba71c1dbf",
+        "Step": 13,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.65,
+        "HighAvg": 3.48,
+        "LowAvg": 3.21,
+        "Fine": 0.35
+      },
+      {
+        "Id": "8b711905-43dd-68ab-d759-a3b562e985a2",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.35,
+        "HighAvg": 13.2,
+        "LowAvg": 12.85,
+        "Fine": 1.09
+      },
+      {
+        "Id": "98f35d0f-c96e-542a-3557-b4f29c102fb0",
+        "Step": 15,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 24.1,
+        "HighAvg": 2.58,
+        "LowAvg": 2.7,
+        "Fine": 0.28
+      },
+      {
+        "Id": "9c6fb03a-f23c-017b-4197-139ff3ea5e6e",
+        "Step": 11,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.38,
+        "HighAvg": 5.78,
+        "LowAvg": 3.7,
+        "Fine": 0.82
+      },
+      {
+        "Id": "ac97b317-8742-0088-ae4f-6873107f0e95",
+        "Step": 8,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 12.1,
+        "HighAvg": 11.34,
+        "LowAvg": 5.31,
+        "Fine": 0.925
+      },
+      {
+        "Id": "cd960602-bbf8-a630-d00d-3016d034e854",
+        "Step": 7,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 8.22,
+        "HighAvg": 13.33,
+        "LowAvg": 6.98,
+        "Fine": 0.78
+      },
+      {
+        "Id": "cdcef7f4-1089-530b-e83c-124cf8b3ee2c",
+        "Step": 12,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.08,
+        "HighAvg": 4.49,
+        "LowAvg": 3.44,
+        "Fine": 0.56
+      },
+      {
+        "Id": "d0b45223-d307-b118-700e-209b50119038",
+        "Step": 16,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 24.73,
+        "HighAvg": 2.41,
+        "LowAvg": 2.5,
+        "Fine": 0.15
+      }
+    ]
+  },
+  {
+    "Id": "36d01824-9e99-947f-96ff-cd4202f87105",
+    "Manufacturer": "Fiorenzato",
+    "Model": "F4 Filter",
+    "Grinds": [
+      {
+        "Id": "1b364eca-4a1b-8fc9-308f-e7849896dd30",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 6.96,
+        "HighAvg": 13.02,
+        "LowAvg": 9.14,
+        "Fine": 0.49
+      },
+      {
+        "Id": "1b6f4818-da75-de64-be7b-616ebcffaf22",
+        "Step": 45,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.93,
+        "HighAvg": 3.5,
+        "LowAvg": 3.91,
+        "Fine": 0.3
+      },
+      {
+        "Id": "3d1810d8-a7ba-2e29-3d6d-08af211e303b",
+        "Step": 35,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.22,
+        "HighAvg": 4.62,
+        "LowAvg": 4.28,
+        "Fine": 0.49
+      },
+      {
+        "Id": "40093b1d-1304-04cb-7fdb-3e4a989fa032",
+        "Step": 25,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.38,
+        "HighAvg": 6.15,
+        "LowAvg": 5.49,
+        "Fine": 0.56
+      },
+      {
+        "Id": "53e5fd8a-34a9-b5a3-cd91-a8ccb0bd7dfb",
+        "Step": 1,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.85,
+        "HighAvg": 13.87,
+        "LowAvg": 13.28,
+        "Fine": 0.5
+      },
+      {
+        "Id": "93ffd9fc-a7b9-26e8-80e2-567a2ae66845",
+        "Step": 40,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.85,
+        "HighAvg": 4.1,
+        "LowAvg": 4.28,
+        "Fine": 0.35
+      },
+      {
+        "Id": "a97cbc3a-4b47-4267-fd37-17c5ce588f24",
+        "Step": 20,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.8,
+        "HighAvg": 8.04,
+        "LowAvg": 6.33,
+        "Fine": 0.66
+      },
+      {
+        "Id": "ac57e6bb-3968-49a5-fb5c-52e7f889c1b5",
+        "Step": 15,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.78,
+        "HighAvg": 10.45,
+        "LowAvg": 7.64,
+        "Fine": 0.65
+      },
+      {
+        "Id": "effe5668-1661-e6b2-4942-5448e5076737",
+        "Step": 30,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.74,
+        "HighAvg": 5.4,
+        "LowAvg": 5.03,
+        "Fine": 0.52
+      },
+      {
+        "Id": "f5f9e8ef-2cd2-7892-ee5e-3ce961e5cc37",
+        "Step": 50,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.69,
+        "HighAvg": 3.05,
+        "LowAvg": 3.31,
+        "Fine": 0.52
+      },
+      {
+        "Id": "ffe76e35-9336-9056-a39e-c3fda4bb546b",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.95,
+        "HighAvg": 14.36,
+        "LowAvg": 10.78,
+        "Fine": 0.39
+      }
+    ]
+  },
+  {
+    "Id": "38e484c6-db75-6a77-7851-0d2e014bee96",
+    "Manufacturer": "Hero",
+    "Model": "S01",
+    "Grinds": [
+      {
+        "Id": "3554a505-ae5c-3a24-f079-28bf6649c00e",
+        "Step": 40,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.58,
+        "HighAvg": 5.57,
+        "LowAvg": 5.24,
+        "Fine": 0.7
+      },
+      {
+        "Id": "3a2c12b4-7734-3850-06f1-f99c6c5ee071",
+        "Step": 20,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.68,
+        "HighAvg": 8.38,
+        "LowAvg": 20.7,
+        "Fine": 0.25
+      },
+      {
+        "Id": "3d5ede45-4f92-f7ee-983b-18fadae2a6cc",
+        "Step": 25,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.77,
+        "HighAvg": 10.8,
+        "LowAvg": 13.1,
+        "Fine": 0.25
+      },
+      {
+        "Id": "552fd295-3a9f-bfff-2d54-d298ac0faa34",
+        "Step": 15,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.12,
+        "HighAvg": 5.01,
+        "LowAvg": 23.6,
+        "Fine": 0.24
+      },
+      {
+        "Id": "586742bc-7805-4d10-08a7-8e8169b38d80",
+        "Step": 30,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 9.64,
+        "HighAvg": 10.25,
+        "LowAvg": 9.6,
+        "Fine": 0.26
+      },
+      {
+        "Id": "d8a1c952-2d79-95f3-344a-36c4094d9eb5",
+        "Step": 45,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.58,
+        "HighAvg": 3.9,
+        "LowAvg": 4.2,
+        "Fine": 0.23
+      },
+      {
+        "Id": "f8ad86b5-1cc8-4939-d679-46449a81b08e",
+        "Step": 35,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 15.09,
+        "HighAvg": 7.6,
+        "LowAvg": 7.2,
+        "Fine": 0.24
+      }
+    ]
+  },
+  {
+    "Id": "3c7d2c54-77e8-bb23-2ec5-cb57eb40adc8",
+    "Manufacturer": "Baratza",
+    "Model": "Forte",
+    "Grinds": [
+      {
+        "Id": "040e923e-f30d-e0e8-d5fb-2290c339797c",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 0,
+        "Coarse": 21.19,
+        "HighAvg": 4.59,
+        "LowAvg": 3.56,
+        "Fine": 0.28
+      },
+      {
+        "Id": "1bf6589f-b051-bbab-b93e-f416cb029451",
+        "Step": 6,
+        "SubStep": 10,
+        "Amount": 0,
+        "Coarse": 22.38,
+        "HighAvg": 3.83,
+        "LowAvg": 3.19,
+        "Fine": 0.43
+      },
+      {
+        "Id": "30db012b-1999-42b8-2798-48f78f952052",
+        "Step": 5,
+        "SubStep": 10,
+        "Amount": 0,
+        "Coarse": 19.27,
+        "HighAvg": 6.09,
+        "LowAvg": 3.94,
+        "Fine": 0.32
+      },
+      {
+        "Id": "39cf8f55-d163-80fb-eb69-ba808136b812",
+        "Step": 6,
+        "SubStep": 15,
+        "Amount": 0,
+        "Coarse": 23.3,
+        "HighAvg": 3.2,
+        "LowAvg": 2.87,
+        "Fine": 0.41
+      },
+      {
+        "Id": "4e00f87c-f9a7-3176-58a5-60244a6aa235",
+        "Step": 6,
+        "SubStep": 5,
+        "Amount": 0,
+        "Coarse": 21.77,
+        "HighAvg": 4.47,
+        "LowAvg": 3.19,
+        "Fine": 0.43
+      },
+      {
+        "Id": "546e3111-6f48-d30a-52c9-6d06248bffda",
+        "Step": 5,
+        "SubStep": 15,
+        "Amount": 0,
+        "Coarse": 20.78,
+        "HighAvg": 5.01,
+        "LowAvg": 3.52,
+        "Fine": 0.33
+      },
+      {
+        "Id": "5b8c918d-91f1-2eed-85d0-ae9271bed9af",
+        "Step": 3,
+        "SubStep": 0,
+        "Amount": 0,
+        "Coarse": 3.99,
+        "HighAvg": 15.15,
+        "LowAvg": 10.11,
+        "Fine": 0.34
+      },
+      {
+        "Id": "633fd61d-8edf-8657-991d-4b9b1884e605",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 0,
+        "Coarse": 17.11,
+        "HighAvg": 7.7,
+        "LowAvg": 4.18,
+        "Fine": 0.63
+      },
+      {
+        "Id": "68f607ff-35a1-ab61-c79b-11bc1bce9284",
+        "Step": 4,
+        "SubStep": 15,
+        "Amount": 0,
+        "Coarse": 16.43,
+        "HighAvg": 8.16,
+        "LowAvg": 4.5,
+        "Fine": 0.53
+      },
+      {
+        "Id": "8389efa7-fe1d-3025-4232-e28611720616",
+        "Step": 3,
+        "SubStep": 5,
+        "Amount": 0,
+        "Coarse": 5.06,
+        "HighAvg": 15.03,
+        "LowAvg": 9.23,
+        "Fine": 0.29
+      },
+      {
+        "Id": "86625327-2845-9cf0-b73c-6644ebeb98b6",
+        "Step": 2,
+        "SubStep": 10,
+        "Amount": 0,
+        "Coarse": 1.62,
+        "HighAvg": 14.5,
+        "LowAvg": 12.94,
+        "Fine": 0.51
+      },
+      {
+        "Id": "87d753e6-3327-86ae-5ad0-fd65f1654758",
+        "Step": 3,
+        "SubStep": 10,
+        "Amount": 0,
+        "Coarse": 6.35,
+        "HighAvg": 14.67,
+        "LowAvg": 8.27,
+        "Fine": 0.32
+      },
+      {
+        "Id": "8da654eb-d5d5-669c-8b29-c49076ec50d6",
+        "Step": 2,
+        "SubStep": 0,
+        "Amount": 0,
+        "Coarse": 0.83,
+        "HighAvg": 12.42,
+        "LowAvg": 15.92,
+        "Fine": 0.41
+      },
+      {
+        "Id": "9dd2202a-e08e-b7b6-5fac-af5a44c78aee",
+        "Step": 3,
+        "SubStep": 15,
+        "Amount": 0,
+        "Coarse": 9.88,
+        "HighAvg": 12.75,
+        "LowAvg": 6.13,
+        "Fine": 0.85
+      },
+      {
+        "Id": "ad1208d5-2afd-95de-1034-a8382023ddae",
+        "Step": 2,
+        "SubStep": 15,
+        "Amount": 0,
+        "Coarse": 3.78,
+        "HighAvg": 15.02,
+        "LowAvg": 10.46,
+        "Fine": 0.37
+      },
+      {
+        "Id": "b12b4110-2427-ee74-be77-7ae6181b3845",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 0,
+        "Coarse": 11.43,
+        "HighAvg": 12.69,
+        "LowAvg": 6.54,
+        "Fine": 0.32
+      },
+      {
+        "Id": "b9ad9308-8134-d264-6f77-5b0869540d37",
+        "Step": 2,
+        "SubStep": 5,
+        "Amount": 0,
+        "Coarse": 1.09,
+        "HighAvg": 13.56,
+        "LowAvg": 14.43,
+        "Fine": 0.4
+      },
+      {
+        "Id": "b9b30b14-f03e-705b-c2f9-4ba9e31d3f77",
+        "Step": 5,
+        "SubStep": 5,
+        "Amount": 0,
+        "Coarse": 17.52,
+        "HighAvg": 7.47,
+        "LowAvg": 4.24,
+        "Fine": 0.44
+      },
+      {
+        "Id": "bf703f66-59c0-d4ff-8a68-3e84206734b6",
+        "Step": 4,
+        "SubStep": 10,
+        "Amount": 0,
+        "Coarse": 13.53,
+        "HighAvg": 10.32,
+        "LowAvg": 5.24,
+        "Fine": 0.5
+      },
+      {
+        "Id": "e2c38dca-99b0-02a5-7337-d178d00972e0",
+        "Step": 4,
+        "SubStep": 5,
+        "Amount": 0,
+        "Coarse": 11.32,
+        "HighAvg": 11.72,
+        "LowAvg": 6.01,
+        "Fine": 0.52
+      }
+    ]
+  },
+  {
+    "Id": "40273793-cc73-f74d-33b8-04844644d62d",
+    "Manufacturer": "Comandante",
+    "Model": "Red clix",
+    "Grinds": [
+      {
+        "Id": "17f28ae8-62c5-8e31-1f4a-04e6da2921e9",
+        "Step": 30,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 7.3,
+        "HighAvg": 12.465,
+        "LowAvg": 8.775,
+        "Fine": 0.965
+      },
+      {
+        "Id": "1ff51ba3-3edb-7ae5-d1aa-2753143e1e02",
+        "Step": 55,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.49,
+        "HighAvg": 4.75,
+        "LowAvg": 3.99,
+        "Fine": 0.545
+      },
+      {
+        "Id": "6f74e457-5c99-da4a-50fe-57c13ee318fc",
+        "Step": 40,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 12.14,
+        "HighAvg": 9.74,
+        "LowAvg": 7.18,
+        "Fine": 0.735
+      },
+      {
+        "Id": "718fa8a0-3c8c-9247-23cc-4c0c99fb511a",
+        "Step": 15,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.045,
+        "HighAvg": 3.49,
+        "LowAvg": 24.21,
+        "Fine": 1.67
+      },
+      {
+        "Id": "886fd803-f749-3a96-6038-81d8fb3de243",
+        "Step": 60,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.15,
+        "HighAvg": 3.8,
+        "LowAvg": 3.32,
+        "Fine": 0.585
+      },
+      {
+        "Id": "93030977-637b-c38a-0ea3-58c896b3669f",
+        "Step": 65,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 23.48,
+        "HighAvg": 3.1,
+        "LowAvg": 2.75,
+        "Fine": 0.605
+      },
+      {
+        "Id": "beebb68e-bb61-3ef0-5437-d05f9becea6e",
+        "Step": 50,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.8,
+        "HighAvg": 5.775,
+        "LowAvg": 4.7,
+        "Fine": 0.485
+      },
+      {
+        "Id": "d8fc015d-f8d8-cd68-8c62-8eb33c6fd62e",
+        "Step": 45,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 15.67,
+        "HighAvg": 7.68,
+        "LowAvg": 5.89,
+        "Fine": 0.64
+      },
+      {
+        "Id": "db7e9422-719a-7e34-16fe-b2229339ccc4",
+        "Step": 25,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.295,
+        "HighAvg": 13.5,
+        "LowAvg": 11.92,
+        "Fine": 0.905
+      },
+      {
+        "Id": "ea31f304-8fda-b5ee-c822-6045a599ae48",
+        "Step": 20,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.965,
+        "HighAvg": 11.315,
+        "LowAvg": 16.235,
+        "Fine": 1.15
+      },
+      {
+        "Id": "f2b6e124-9ab4-17b0-82b8-21b7a20393c4",
+        "Step": 35,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 11.925,
+        "HighAvg": 9.91,
+        "LowAvg": 7.26,
+        "Fine": 0.83
+      },
+      {
+        "Id": "ffd4d688-233e-3ea7-fa50-351fc95a2764",
+        "Step": 70,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 24.41,
+        "HighAvg": 2.61,
+        "LowAvg": 2.43,
+        "Fine": 0.455
+      }
+    ]
+  },
+  {
+    "Id": "536c6b4f-cc76-11ed-b668-46e2e54457fe",
+    "Manufacturer": "KINGrinder",
+    "Model": "K6",
+    "Grinds": [
+      {
+        "Id": "0585e38a-f9a5-0f75-7994-f3adce2fe6ab",
+        "Step": 140,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 11.42,
+        "HighAvg": 10.46,
+        "LowAvg": 8.4,
+        "Fine": 0.21
+      },
+      {
+        "Id": "125d86d0-9f5e-e2d9-a608-f87e80f6b6f7",
+        "Step": 145,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.9,
+        "HighAvg": 9.05,
+        "LowAvg": 6.97,
+        "Fine": 0.21
+      },
+      {
+        "Id": "12d44a38-c4a2-e4f3-9d49-137e4ad74a09",
+        "Step": 125,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 4.56,
+        "HighAvg": 11.99,
+        "LowAvg": 13.15,
+        "Fine": 26
+      },
+      {
+        "Id": "31f99798-34ee-b3f7-965e-2ecfb7e80bf4",
+        "Step": 115,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.82,
+        "HighAvg": 9.37,
+        "LowAvg": 18.13,
+        "Fine": 0.25
+      },
+      {
+        "Id": "603d9bd0-1e55-281c-a9f8-7171f2eb32da",
+        "Step": 110,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.12,
+        "HighAvg": 5.01,
+        "LowAvg": 23.6,
+        "Fine": 0.24
+      },
+      {
+        "Id": "72513060-d653-e793-9699-3d898293401d",
+        "Step": 160,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.06,
+        "HighAvg": 5.8,
+        "LowAvg": 4.8,
+        "Fine": 0.27
+      },
+      {
+        "Id": "743fbed2-cb2f-e437-e035-434b421c797a",
+        "Step": 155,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.68,
+        "HighAvg": 6.72,
+        "LowAvg": 635,
+        "Fine": 0.22
+      },
+      {
+        "Id": "76cba755-795b-7497-169c-74b06675fa5b",
+        "Step": 130,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.93,
+        "HighAvg": 13.3,
+        "LowAvg": 10.89,
+        "Fine": 0.2
+      },
+      {
+        "Id": "7d777f7b-ce5e-00e3-fc72-f7f17cc371e4",
+        "Step": 150,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.29,
+        "HighAvg": 7.64,
+        "LowAvg": 5.9,
+        "Fine": 0.2
+      },
+      {
+        "Id": "c2bd1309-ee5e-188a-a61c-0c35db0d8de3",
+        "Step": 170,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.4,
+        "HighAvg": 4.43,
+        "LowAvg": 3.95,
+        "Fine": 0.23
+      },
+      {
+        "Id": "e1c22916-312a-e9f7-b7f7-e0f582397d65",
+        "Step": 120,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.19,
+        "HighAvg": 10.68,
+        "LowAvg": 15.7,
+        "Fine": 0.26
+      },
+      {
+        "Id": "efeb714a-8d87-c8e4-1b8f-50fa6e125112",
+        "Step": 165,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.23,
+        "HighAvg": 5.12,
+        "LowAvg": 4.35,
+        "Fine": 0.25
+      },
+      {
+        "Id": "f9ec047e-6479-d926-f5d2-c430c6e3890a",
+        "Step": 135,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 8.86,
+        "HighAvg": 11.88,
+        "LowAvg": 9.65,
+        "Fine": 0.22
+      }
+    ]
+  },
+  {
+    "Id": "5656780a-9023-be86-d532-dc82283191de",
+    "Manufacturer": "1Zpresso",
+    "Model": "K-Plus",
+    "Grinds": [
+      {
+        "Id": "0ae027c8-1356-b583-a9fe-f1492b74786b",
+        "Step": 85,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.41,
+        "HighAvg": 4.02,
+        "LowAvg": 3.93,
+        "Fine": 0.4
+      },
+      {
+        "Id": "184d7672-401f-6240-094e-a0b96ac91569",
+        "Step": 72,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.87,
+        "HighAvg": 5.94,
+        "LowAvg": 4.74,
+        "Fine": 0.44
+      },
+      {
+        "Id": "278f265c-0a33-a36d-d5b5-0e5d24a80161",
+        "Step": 40,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.93,
+        "HighAvg": 9.73,
+        "LowAvg": 18.27,
+        "Fine": 0.55
+      },
+      {
+        "Id": "384d5853-0769-0044-eb76-b1adc79e2d0c",
+        "Step": 45,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.62,
+        "HighAvg": 11.55,
+        "LowAvg": 15.64,
+        "Fine": 0.54
+      },
+      {
+        "Id": "7dee4e32-98f4-2546-524d-faaf54da9832",
+        "Step": 75,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.49,
+        "HighAvg": 5.77,
+        "LowAvg": 4.96,
+        "Fine": 0.51
+      },
+      {
+        "Id": "af0a326f-9ae3-6fe6-81f2-943a5eb8e976",
+        "Step": 55,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 7.53,
+        "HighAvg": 11.75,
+        "LowAvg": 9.62,
+        "Fine": 0.66
+      },
+      {
+        "Id": "afd6173e-ced6-8ba0-6bc2-a7c180376099",
+        "Step": 90,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.63,
+        "HighAvg": 3.34,
+        "LowAvg": 3.51,
+        "Fine": 0.24
+      },
+      {
+        "Id": "b25d1ce3-4620-1545-5dec-434dd7832687",
+        "Step": 100,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 24.53,
+        "HighAvg": 2.5,
+        "LowAvg": 2.5,
+        "Fine": 0.32
+      },
+      {
+        "Id": "b2e3b72f-3ee6-ab9a-1cb0-41f3be2ec3af",
+        "Step": 70,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.49,
+        "HighAvg": 6.88,
+        "LowAvg": 6.19,
+        "Fine": 0.22
+      },
+      {
+        "Id": "be97dc83-e457-368c-547e-341f928d55b3",
+        "Step": 60,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 11.51,
+        "HighAvg": 9.78,
+        "LowAvg": 7.52,
+        "Fine": 0.69
+      },
+      {
+        "Id": "c715c760-54cf-8cb8-d9d6-5650aa6cb67b",
+        "Step": 50,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 4.46,
+        "HighAvg": 12.6,
+        "LowAvg": 11.91,
+        "Fine": 0.57
+      },
+      {
+        "Id": "cb504ca8-02e7-41f5-1b34-89307a32cd82",
+        "Step": 80,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.38,
+        "HighAvg": 4.49,
+        "LowAvg": 4.23,
+        "Fine": 0.47
+      },
+      {
+        "Id": "d690f0ad-1dbe-71f6-d123-eed50c983908",
+        "Step": 30,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.07,
+        "HighAvg": 2.44,
+        "LowAvg": 25.93,
+        "Fine": 0.63
+      },
+      {
+        "Id": "dc4168c6-0193-6d68-6a5c-b5a46b520b75",
+        "Step": 65,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.94,
+        "HighAvg": 8.3,
+        "LowAvg": 6.99,
+        "Fine": 0.23
+      }
+    ]
+  },
+  {
+    "Id": "56704cd3-be3d-151e-66e2-daa143358009",
+    "Manufacturer": "Ditting",
+    "Model": "807",
+    "Grinds": [
+      {
+        "Id": "06ad5137-f46e-ff84-102d-5559b1910ea5",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.15,
+        "HighAvg": 5.26,
+        "LowAvg": 3.73,
+        "Fine": 0.48
+      },
+      {
+        "Id": "3725a2e7-46fd-8348-686f-e2e3c4aabdf1",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 15.51,
+        "HighAvg": 8.98,
+        "LowAvg": 4.85,
+        "Fine": 0.31
+      },
+      {
+        "Id": "4f2cb056-a2cf-d1ec-70af-42ed9627668f",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 9.03,
+        "HighAvg": 14.205,
+        "LowAvg": 6.025,
+        "Fine": 0.35
+      },
+      {
+        "Id": "523b78ec-ac62-4339-a293-841e193b8550",
+        "Step": 3,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.75,
+        "HighAvg": 17.61,
+        "LowAvg": 8.68,
+        "Fine": 0.62
+      },
+      {
+        "Id": "528cf9a3-4330-0b50-6666-2351cfed0b11",
+        "Step": 1,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.025,
+        "HighAvg": 5.705,
+        "LowAvg": 23.16,
+        "Fine": 0.545
+      },
+      {
+        "Id": "a1c00a3a-d2f2-0d52-4227-1244414d81f8",
+        "Step": 2,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.28,
+        "HighAvg": 12.77,
+        "LowAvg": 16.01,
+        "Fine": 0.5
+      }
+    ]
+  },
+  {
+    "Id": "66761f30-2372-e408-0cf7-84c9093f2a50",
+    "Manufacturer": "Turin",
+    "Model": "DF64",
+    "Grinds": [
+      {
+        "Id": "2ccd7e08-701c-cd60-59a9-2862a761592c",
+        "Step": 60,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.66,
+        "HighAvg": 5.25,
+        "LowAvg": 4.33,
+        "Fine": 0.56
+      },
+      {
+        "Id": "44bf0424-81f6-4ed4-cd54-a28d08d20c3d",
+        "Step": 55,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.5,
+        "HighAvg": 6.87,
+        "LowAvg": 5.03,
+        "Fine": 0.36
+      },
+      {
+        "Id": "5df3eea9-70ab-5d8f-d953-b0333dabfb73",
+        "Step": 35,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 4.85,
+        "HighAvg": 13.97,
+        "LowAvg": 10.43,
+        "Fine": 0.41
+      },
+      {
+        "Id": "6b20fc39-269d-3d26-2f7c-86b77df527c5",
+        "Step": 50,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.88,
+        "HighAvg": 8.64,
+        "LowAvg": 5.76,
+        "Fine": 0.47
+      },
+      {
+        "Id": "a55052d7-6809-ad94-8f7d-aa6732bc264d",
+        "Step": 25,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.61,
+        "HighAvg": 11.52,
+        "LowAvg": 16.08,
+        "Fine": 0.59
+      },
+      {
+        "Id": "a660651e-8231-c430-3411-521ae7748b03",
+        "Step": 40,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 8.38,
+        "HighAvg": 12.67,
+        "LowAvg": 8.25,
+        "Fine": 0.34
+      },
+      {
+        "Id": "bdf7daf1-7b48-bb62-0f9e-8e6197fc7edb",
+        "Step": 45,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 11.98,
+        "HighAvg": 10.27,
+        "LowAvg": 6.93,
+        "Fine": 0.41
+      },
+      {
+        "Id": "d3783aa4-8e9e-0805-6026-1fe80d282af3",
+        "Step": 30,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.22,
+        "HighAvg": 13.88,
+        "LowAvg": 13.05,
+        "Fine": 0.99
+      },
+      {
+        "Id": "ffa9ee1a-4070-d7ff-52da-3b7f8043be4e",
+        "Step": 65,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.05,
+        "HighAvg": 4.42,
+        "LowAvg": 3.86,
+        "Fine": 0.45
+      }
+    ]
+  },
+  {
+    "Id": "6b642a59-7de9-3be2-4e40-8657e48b44a0",
+    "Manufacturer": "Omni",
+    "Model": "Cup",
+    "Grinds": [
+      {
+        "Id": "314e0747-a683-8f3c-d434-547bc1ae0187",
+        "Step": 30,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 7.8,
+        "HighAvg": 11.24,
+        "LowAvg": 9.33,
+        "Fine": 0.77
+      },
+      {
+        "Id": "3ddd72e9-c9a9-f182-de17-a055d538da5e",
+        "Step": 40,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.19,
+        "HighAvg": 7.3,
+        "LowAvg": 5.58,
+        "Fine": 0.53
+      },
+      {
+        "Id": "6e49447f-564d-b090-21b3-e64dd3a8d456",
+        "Step": 35,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 12.21,
+        "HighAvg": 9.6,
+        "LowAvg": 7.27,
+        "Fine": 0.56
+      },
+      {
+        "Id": "8ace67ac-b045-670f-977e-288628544efc",
+        "Step": 20,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.21,
+        "HighAvg": 9.8,
+        "LowAvg": 17.5,
+        "Fine": 0.91
+      },
+      {
+        "Id": "a4a44618-216a-9370-1a83-36a7adbda092",
+        "Step": 25,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.91,
+        "HighAvg": 11.3,
+        "LowAvg": 14.13,
+        "Fine": 0.75
+      },
+      {
+        "Id": "b093f662-db4a-fc1d-9695-42b1e5d592cf",
+        "Step": 50,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.21,
+        "HighAvg": 4.19,
+        "LowAvg": 3.54,
+        "Fine": 0.44
+      },
+      {
+        "Id": "dd070d35-c0db-167c-70e9-e3f893ac954f",
+        "Step": 45,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.07,
+        "HighAvg": 5.58,
+        "LowAvg": 4.51,
+        "Fine": 0.57
+      }
+    ]
+  },
+  {
+    "Id": "7b9a89cf-e8e8-b569-5143-5b0f98e56d1e",
+    "Manufacturer": "Kinu",
+    "Model": "m47 phoenix",
+    "Grinds": [
+      {
+        "Id": "094ccb1f-7306-43a0-ca08-4a1d668b07b8",
+        "Step": 2,
+        "SubStep": 1,
+        "Amount": 30,
+        "Coarse": 1.95,
+        "HighAvg": 11.53,
+        "LowAvg": 15.39,
+        "Fine": 0.78
+      },
+      {
+        "Id": "0b2b6663-3c4e-4f6d-07cf-1c84514e759c",
+        "Step": 2,
+        "SubStep": 7,
+        "Amount": 30,
+        "Coarse": 9.04,
+        "HighAvg": 10.39,
+        "LowAvg": 9.85,
+        "Fine": 0.42
+      },
+      {
+        "Id": "16a4a6f9-cb2b-2d32-a59c-79acff21235c",
+        "Step": 2,
+        "SubStep": 2,
+        "Amount": 30,
+        "Coarse": 2.7,
+        "HighAvg": 12.21,
+        "LowAvg": 14.2,
+        "Fine": 0.6
+      },
+      {
+        "Id": "17f97f4b-b8d5-93c8-428b-4dd2b82db2b5",
+        "Step": 2,
+        "SubStep": 8,
+        "Amount": 30,
+        "Coarse": 10.05,
+        "HighAvg": 9.85,
+        "LowAvg": 9.21,
+        "Fine": 0.63
+      },
+      {
+        "Id": "2858c69f-4695-9e7f-c5cf-b241998774e4",
+        "Step": 2,
+        "SubStep": 3,
+        "Amount": 30,
+        "Coarse": 4.24,
+        "HighAvg": 11.92,
+        "LowAvg": 12.84,
+        "Fine": 0.7
+      },
+      {
+        "Id": "2cff284e-b218-6f59-47bf-9dd67792e8dc",
+        "Step": 3,
+        "SubStep": 6,
+        "Amount": 30,
+        "Coarse": 17.77,
+        "HighAvg": 5.95,
+        "LowAvg": 5.44,
+        "Fine": 0.45
+      },
+      {
+        "Id": "2ee5ecae-395f-6d66-22c6-0d94464d509b",
+        "Step": 3,
+        "SubStep": 4,
+        "Amount": 30,
+        "Coarse": 15.86,
+        "HighAvg": 6.74,
+        "LowAvg": 6.45,
+        "Fine": 0.56
+      },
+      {
+        "Id": "44e58d63-78b6-3c99-c04d-5945689d7914",
+        "Step": 3,
+        "SubStep": 7,
+        "Amount": 30,
+        "Coarse": 18.97,
+        "HighAvg": 5.34,
+        "LowAvg": 5.02,
+        "Fine": 0.45
+      },
+      {
+        "Id": "460b7348-de8a-90c4-97bf-bd5e771bf6ba",
+        "Step": 3,
+        "SubStep": 8,
+        "Amount": 30,
+        "Coarse": 19.53,
+        "HighAvg": 5.05,
+        "LowAvg": 4.75,
+        "Fine": 0.49
+      },
+      {
+        "Id": "4d4a49fb-860a-0f6c-4007-0e07ae22850e",
+        "Step": 3,
+        "SubStep": 2,
+        "Amount": 30,
+        "Coarse": 14.33,
+        "HighAvg": 7.57,
+        "LowAvg": 7.13,
+        "Fine": 0.6
+      },
+      {
+        "Id": "7c21c455-de7e-e33b-e056-815bf7d20be5",
+        "Step": 2,
+        "SubStep": 6,
+        "Amount": 30,
+        "Coarse": 7.54,
+        "HighAvg": 11.07,
+        "LowAvg": 10.36,
+        "Fine": 0.66
+      },
+      {
+        "Id": "7d491a92-2e34-56a2-45c4-e0a50c4ee465",
+        "Step": 2,
+        "SubStep": 4,
+        "Amount": 30,
+        "Coarse": 5,
+        "HighAvg": 11.93,
+        "LowAvg": 12.14,
+        "Fine": 0.52
+      },
+      {
+        "Id": "8ae72fe5-57fd-d170-c575-0255e6f749e3",
+        "Step": 2,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 6.05,
+        "HighAvg": 11.55,
+        "LowAvg": 11.44,
+        "Fine": 0.57
+      },
+      {
+        "Id": "9847d834-4d25-4526-66b9-e9a1368453fb",
+        "Step": 2,
+        "SubStep": 9,
+        "Amount": 30,
+        "Coarse": 11.5,
+        "HighAvg": 9.14,
+        "LowAvg": 8.27,
+        "Fine": 0.77
+      },
+      {
+        "Id": "9ed08bab-844e-88f0-7d61-0893ce71c781",
+        "Step": 3,
+        "SubStep": 1,
+        "Amount": 30,
+        "Coarse": 13.28,
+        "HighAvg": 8.22,
+        "LowAvg": 7.36,
+        "Fine": 0.75
+      },
+      {
+        "Id": "a259a9f6-63a6-3ef6-afd1-5bc3c5804b71",
+        "Step": 2,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.24,
+        "HighAvg": 11.45,
+        "LowAvg": 16.46,
+        "Fine": 0.5
+      },
+      {
+        "Id": "a865962c-e092-9d7d-455f-52cc3f0211c9",
+        "Step": 1,
+        "SubStep": 9,
+        "Amount": 30,
+        "Coarse": 1.07,
+        "HighAvg": 10.86,
+        "LowAvg": 17.27,
+        "Fine": 0.46
+      },
+      {
+        "Id": "aafafe8d-a1df-ffc6-4b2f-4839e32b6d6c",
+        "Step": 3,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 12.03,
+        "HighAvg": 8.88,
+        "LowAvg": 7.93,
+        "Fine": 0.79
+      },
+      {
+        "Id": "bfa29390-9512-9d57-9f3d-222cf0983f82",
+        "Step": 3,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 16.49,
+        "HighAvg": 6.39,
+        "LowAvg": 6.3,
+        "Fine": 0.54
+      },
+      {
+        "Id": "c7d6c42d-49be-26d4-39db-b1c63f17bd08",
+        "Step": 3,
+        "SubStep": 3,
+        "Amount": 30,
+        "Coarse": 14.95,
+        "HighAvg": 7.14,
+        "LowAvg": 6.9,
+        "Fine": 0.66
+      },
+      {
+        "Id": "d550cd37-1dc5-598d-04bf-dca2accacd97",
+        "Step": 3,
+        "SubStep": 9,
+        "Amount": 30,
+        "Coarse": 19.68,
+        "HighAvg": 4.84,
+        "LowAvg": 4.48,
+        "Fine": 0.79
+      }
+    ]
+  },
+  {
+    "Id": "829fcdd8-bc30-e7e0-2106-ead637d00f36",
+    "Manufacturer": "Mahlk\u00F6nig",
+    "Model": "EK43(coffee)  \u0414\u0438\u0441\u043A 1-11",
+    "Grinds": [
+      {
+        "Id": "1964c703-9050-3389-ac42-edf71097a25b",
+        "Step": 9,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 21.85,
+        "HighAvg": 3.66,
+        "LowAvg": 3.39,
+        "Fine": 0.85
+      },
+      {
+        "Id": "636e1dd5-5eff-f0b6-bbfb-6ae1adc1c7b2",
+        "Step": 7,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 16.17,
+        "HighAvg": 7.81,
+        "LowAvg": 4.67,
+        "Fine": 0.98
+      },
+      {
+        "Id": "66092e39-c10e-afaa-e3c0-ccdac54bb8a5",
+        "Step": 6,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 11.46,
+        "HighAvg": 11.57,
+        "LowAvg": 5.57,
+        "Fine": 0.8
+      },
+      {
+        "Id": "7d066d4a-4f5c-1f16-13d1-5dcfa2a017a9",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 8.09,
+        "HighAvg": 13.77,
+        "LowAvg": 6.81,
+        "Fine": 0.81
+      },
+      {
+        "Id": "95599b29-4a91-36c9-0871-7dd8579da3a1",
+        "Step": 9,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.35,
+        "HighAvg": 4.76,
+        "LowAvg": 3.76,
+        "Fine": 0.61
+      },
+      {
+        "Id": "c05dc219-0ccb-cde6-479d-b57a40a6212b",
+        "Step": 8,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.39,
+        "HighAvg": 6.88,
+        "LowAvg": 4.65,
+        "Fine": 0.58
+      },
+      {
+        "Id": "c174ef6a-961e-a80f-96c7-8325cc1dac85",
+        "Step": 4,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 2.07,
+        "HighAvg": 14.65,
+        "LowAvg": 11.1,
+        "Fine": 1.52
+      },
+      {
+        "Id": "c55b8fd2-8b08-656d-4cba-68d09816876d",
+        "Step": 5,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 5.57,
+        "HighAvg": 15.06,
+        "LowAvg": 7.88,
+        "Fine": 1.01
+      },
+      {
+        "Id": "cf87c08f-6a75-15fb-ed6f-ab4a50e9342b",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.17,
+        "HighAvg": 15.52,
+        "LowAvg": 9.73,
+        "Fine": 1.02
+      },
+      {
+        "Id": "d3c2cffb-4df9-44dd-14a8-642503a3a4c2",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.41,
+        "HighAvg": 12.22,
+        "LowAvg": 14.58,
+        "Fine": 1.36
+      },
+      {
+        "Id": "dbd9e992-9d6d-0d3a-e523-4cd1fc8d2687",
+        "Step": 8,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 19.46,
+        "HighAvg": 5.35,
+        "LowAvg": 4.03,
+        "Fine": 0.84
+      }
+    ]
+  },
+  {
+    "Id": "84b643aa-3db8-1ce6-a525-99a17e8e189c",
+    "Manufacturer": "KINGrinder",
+    "Model": "K4",
+    "Grinds": [
+      {
+        "Id": "1822c7db-f840-9747-1094-7e6e72f29785",
+        "Step": 180,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.01,
+        "HighAvg": 6.17,
+        "LowAvg": 5.22,
+        "Fine": 0.29
+      },
+      {
+        "Id": "1da8ea6d-e179-2d11-0583-0ea3e8385e2c",
+        "Step": 170,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.44,
+        "HighAvg": 6.97,
+        "LowAvg": 5.95,
+        "Fine": 0.38
+      },
+      {
+        "Id": "1dbdef7c-efcb-eb9e-54b2-a5db6ff8e60c",
+        "Step": 190,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.65,
+        "HighAvg": 5.36,
+        "LowAvg": 4.48,
+        "Fine": 0.21
+      },
+      {
+        "Id": "27ce99d8-d200-28b1-3431-de8a73fc7df9",
+        "Step": 130,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 4.46,
+        "HighAvg": 13.42,
+        "LowAvg": 11.35,
+        "Fine": 0.36
+      },
+      {
+        "Id": "56ecfdb0-f44d-a91c-7379-fc9078f35cc8",
+        "Step": 110,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.66,
+        "HighAvg": 11.47,
+        "LowAvg": 17.15,
+        "Fine": 0.32
+      },
+      {
+        "Id": "8534e8c9-cb8f-f497-8baa-fe2ef140470f",
+        "Step": 150,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 12.67,
+        "HighAvg": 9.81,
+        "LowAvg": 6.96,
+        "Fine": 0.24
+      },
+      {
+        "Id": "98246788-cab2-4e75-15a5-2aecd7cd55c0",
+        "Step": 120,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.54,
+        "HighAvg": 13.19,
+        "LowAvg": 14.46,
+        "Fine": 0.19
+      },
+      {
+        "Id": "9dfd5ab8-bc78-f076-351d-64415d63a47e",
+        "Step": 140,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 7.04,
+        "HighAvg": 12.1,
+        "LowAvg": 10.06,
+        "Fine": 0.37
+      },
+      {
+        "Id": "9f8d4d4a-8f60-6fae-fde1-b9b1cb326502",
+        "Step": 160,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.7,
+        "HighAvg": 8.1,
+        "LowAvg": 6.62,
+        "Fine": 0.36
+      },
+      {
+        "Id": "afd3c367-cb53-a414-c9c5-77ddd290a4d9",
+        "Step": 200,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.16,
+        "HighAvg": 3.99,
+        "LowAvg": 3.65,
+        "Fine": 0.33
+      }
+    ]
+  },
+  {
+    "Id": "904ee30a-b353-c7fd-eb75-51e46b5ba19c",
+    "Manufacturer": "Shenzhen Xeoleo",
+    "Model": "Manual Grinder",
+    "Grinds": [
+      {
+        "Id": "37a8b99e-97af-a5ac-9924-d28296c600d1",
+        "Step": 3,
+        "SubStep": 3,
+        "Amount": 30,
+        "Coarse": 23.2,
+        "HighAvg": 2.92,
+        "LowAvg": 2.84,
+        "Fine": 0.42
+      },
+      {
+        "Id": "3d33f40f-5b8a-9dd6-f973-0c65e7008e54",
+        "Step": 2,
+        "SubStep": 7,
+        "Amount": 30,
+        "Coarse": 14.23,
+        "HighAvg": 6.37,
+        "LowAvg": 8.14,
+        "Fine": 0.45
+      },
+      {
+        "Id": "52636fca-9df7-0c14-d2ab-6363a67fa941",
+        "Step": 2,
+        "SubStep": 9,
+        "Amount": 30,
+        "Coarse": 17.25,
+        "HighAvg": 5.15,
+        "LowAvg": 6.4,
+        "Fine": 0.44
+      },
+      {
+        "Id": "5ab5a126-7898-8020-88c2-5499fdfc3716",
+        "Step": 3,
+        "SubStep": 1,
+        "Amount": 30,
+        "Coarse": 21.37,
+        "HighAvg": 3.59,
+        "LowAvg": 4.48,
+        "Fine": 0.45
+      },
+      {
+        "Id": "75f8d4ac-6e1e-e2fc-9672-da3544a6cb77",
+        "Step": 2,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 11.18,
+        "HighAvg": 8.12,
+        "LowAvg": 9.79,
+        "Fine": 0.51
+      },
+      {
+        "Id": "892f8e07-5648-28ec-b20d-d4bb09c85702",
+        "Step": 2,
+        "SubStep": 3,
+        "Amount": 30,
+        "Coarse": 7.98,
+        "HighAvg": 9.36,
+        "LowAvg": 11.17,
+        "Fine": 0.44
+      },
+      {
+        "Id": "a5aaaf54-921d-e8b2-804c-f07bb7741f2d",
+        "Step": 2,
+        "SubStep": 11,
+        "Amount": 30,
+        "Coarse": 18.73,
+        "HighAvg": 4.66,
+        "LowAvg": 5.33,
+        "Fine": 0.55
+      },
+      {
+        "Id": "a88f5cdd-d840-aa85-eddf-0b9ac968f69c",
+        "Step": 2,
+        "SubStep": 1,
+        "Amount": 30,
+        "Coarse": 4.56,
+        "HighAvg": 10.52,
+        "LowAvg": 13.38,
+        "Fine": 0.62
+      },
+      {
+        "Id": "ab48bea5-9fa8-b41c-3a17-1bc0955e989c",
+        "Step": 1,
+        "SubStep": 11,
+        "Amount": 30,
+        "Coarse": 1.82,
+        "HighAvg": 9.63,
+        "LowAvg": 17.3,
+        "Fine": 0.66
+      }
+    ]
+  },
+  {
+    "Id": "910f33a8-9dc9-1ae5-3270-e587bd32a7ec",
+    "Manufacturer": "Mazzer",
+    "Model": "ZM (\u044D\u0441\u043F\u0440\u0435\u0441\u0441\u043E \u0436\u0435\u0440\u043D\u043E\u0432\u0430)",
+    "Grinds": [
+      {
+        "Id": "10873a66-c473-eef8-fc21-f10a33bae283",
+        "Step": 400,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.67,
+        "HighAvg": 12.43,
+        "LowAvg": 14.2,
+        "Fine": 1.41
+      },
+      {
+        "Id": "269a0b58-3951-8465-b8e9-f66d5ca5c819",
+        "Step": 575,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.57,
+        "HighAvg": 8.48,
+        "LowAvg": 6.86,
+        "Fine": 0.65
+      },
+      {
+        "Id": "33111370-de23-4848-90b6-2b4532591cf0",
+        "Step": 500,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 8.04,
+        "HighAvg": 11.08,
+        "LowAvg": 8.95,
+        "Fine": 0.8
+      },
+      {
+        "Id": "53d6f375-70db-813a-9fdb-63b76a68b0bd",
+        "Step": 700,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.72,
+        "HighAvg": 4.93,
+        "LowAvg": 4.53,
+        "Fine": 0.4
+      },
+      {
+        "Id": "5bd87855-9c0d-3863-debe-092ffbed98fa",
+        "Step": 750,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.97,
+        "HighAvg": 4.12,
+        "LowAvg": 3.98,
+        "Fine": 0.38
+      },
+      {
+        "Id": "86fcf1ed-cf5c-9820-2e96-3e826faa95cf",
+        "Step": 525,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 9.67,
+        "HighAvg": 10.75,
+        "LowAvg": 8.25,
+        "Fine": 0.88
+      },
+      {
+        "Id": "8848cb0e-862c-dc51-5f31-087861cb8d68",
+        "Step": 425,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.65,
+        "HighAvg": 13.3,
+        "LowAvg": 12.51,
+        "Fine": 1.13
+      },
+      {
+        "Id": "88aa9e6e-b610-f1f8-d759-26d4f172b49e",
+        "Step": 675,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.2,
+        "HighAvg": 5.6,
+        "LowAvg": 5.11,
+        "Fine": 0.56
+      },
+      {
+        "Id": "8a616b8e-7160-9ea9-2fa6-4bd9d71e7781",
+        "Step": 475,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.96,
+        "HighAvg": 12.43,
+        "LowAvg": 10.1,
+        "Fine": 1.15
+      },
+      {
+        "Id": "9d63ac75-6101-9733-4d48-a49f0e864630",
+        "Step": 725,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.17,
+        "HighAvg": 4.63,
+        "LowAvg": 4.28,
+        "Fine": 0.43
+      },
+      {
+        "Id": "a2e1079c-f570-52df-70e4-e3885b258747",
+        "Step": 625,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.35,
+        "HighAvg": 6.64,
+        "LowAvg": 5.81,
+        "Fine": 0.52
+      },
+      {
+        "Id": "c60201ad-78b9-a0e2-8d76-6563df63592c",
+        "Step": 600,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 15.06,
+        "HighAvg": 7.54,
+        "LowAvg": 6.19,
+        "Fine": 0.7
+      },
+      {
+        "Id": "e3c4c9f7-fe4c-f538-c4fb-696d00f36225",
+        "Step": 650,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.64,
+        "HighAvg": 6.06,
+        "LowAvg": 5.32,
+        "Fine": 0.5
+      },
+      {
+        "Id": "f923ad06-495a-9f3b-232f-92ac766da58f",
+        "Step": 450,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 4.18,
+        "HighAvg": 13.11,
+        "LowAvg": 11.33,
+        "Fine": 0.96
+      },
+      {
+        "Id": "fdeb6184-cdd6-624d-33f5-0e46a63a7722",
+        "Step": 550,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 11.9,
+        "HighAvg": 9.59,
+        "LowAvg": 7.2,
+        "Fine": 0.89
+      }
+    ]
+  },
+  {
+    "Id": "996f8825-3f5c-f4f9-1155-0dedb83a6836",
+    "Manufacturer": "1Zpresso",
+    "Model": "JE",
+    "Grinds": [
+      {
+        "Id": "7328f6b7-f5dd-fce3-9e5e-81c20e8446a6",
+        "Step": 60,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.88,
+        "HighAvg": 0,
+        "LowAvg": 17.8,
+        "Fine": 0.59
+      },
+      {
+        "Id": "7c8cf2bd-bba0-b19b-8834-e39cd144dff6",
+        "Step": 70,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 4.75,
+        "HighAvg": 11.76,
+        "LowAvg": 12.69,
+        "Fine": 0.73
+      },
+      {
+        "Id": "82abe387-0ad7-d45c-3968-fb9b81e03dca",
+        "Step": 80,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 11.99,
+        "HighAvg": 8.56,
+        "LowAvg": 8.6,
+        "Fine": 0.51
+      },
+      {
+        "Id": "8e14648e-f215-b61f-dbf2-b8c7b7e61a94",
+        "Step": 100,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.25,
+        "HighAvg": 4.86,
+        "LowAvg": 5.37,
+        "Fine": 0.25
+      },
+      {
+        "Id": "96a9279f-0b47-6a5e-40d7-bd98b47a8559",
+        "Step": 95,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.59,
+        "HighAvg": 5.68,
+        "LowAvg": 5.98,
+        "Fine": 0.49
+      },
+      {
+        "Id": "a08d649a-7a67-dc11-3ea7-b406d1c24f51",
+        "Step": 65,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.24,
+        "HighAvg": 11.77,
+        "LowAvg": 15.13,
+        "Fine": 0.49
+      },
+      {
+        "Id": "d8abd76b-06b8-be95-7889-c6c14b36832a",
+        "Step": 90,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 15.95,
+        "HighAvg": 6.44,
+        "LowAvg": 7.01,
+        "Fine": 0.33
+      },
+      {
+        "Id": "ee5722c6-3b4a-b727-0802-04ea3f9d44e5",
+        "Step": 75,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 8.06,
+        "HighAvg": 10.36,
+        "LowAvg": 10.61,
+        "Fine": 0.57
+      },
+      {
+        "Id": "f76a89c0-5ec3-f90c-74c9-e28297374567",
+        "Step": 85,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.23,
+        "HighAvg": 7.31,
+        "LowAvg": 7.91,
+        "Fine": 0.34
+      }
+    ]
+  },
+  {
+    "Id": "b0a3dc78-eeab-e69a-2553-23953d14364c",
+    "Manufacturer": "Baratza",
+    "Model": "Virtuoso\u002B",
+    "Grinds": [
+      {
+        "Id": "20fce45d-116c-54c2-5d5f-4f96da132e68",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.73,
+        "HighAvg": 10.87,
+        "LowAvg": 12.2,
+        "Fine": 0.79
+      },
+      {
+        "Id": "25e3a5b5-d11c-9a69-265f-92b311df57d9",
+        "Step": 12,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 7.13,
+        "HighAvg": 10.83,
+        "LowAvg": 11.28,
+        "Fine": 0.38
+      },
+      {
+        "Id": "2f09c960-b00c-a4ab-3e76-95122054a824",
+        "Step": 14,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.3,
+        "HighAvg": 9.66,
+        "LowAvg": 9.17,
+        "Fine": 0.47
+      },
+      {
+        "Id": "37b45a80-49ab-cea0-fc98-b5b7247c64ca",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.155,
+        "HighAvg": 6.03,
+        "LowAvg": 22.66,
+        "Fine": 0.61
+      },
+      {
+        "Id": "40990bee-27f5-e1e0-22b5-43ea201d5543",
+        "Step": 16,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.8,
+        "HighAvg": 7.84,
+        "LowAvg": 7.67,
+        "Fine": 0.37
+      },
+      {
+        "Id": "4d66497a-27b1-a246-b9fc-2d9542af2de6",
+        "Step": 20,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.7,
+        "HighAvg": 4.88,
+        "LowAvg": 5.66,
+        "Fine": 0.36
+      },
+      {
+        "Id": "852af419-0183-0df2-3e20-4b589d10f6b4",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.055,
+        "HighAvg": 4.36,
+        "LowAvg": 24.26,
+        "Fine": 0.74
+      },
+      {
+        "Id": "ce1dd10b-56d9-58bf-81fb-5adec9695f11",
+        "Step": 22,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.29,
+        "HighAvg": 3.67,
+        "LowAvg": 4.27,
+        "Fine": 0.53
+      },
+      {
+        "Id": "e10925a0-7447-afee-f47e-14dbea632857",
+        "Step": 18,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.27,
+        "HighAvg": 5.9,
+        "LowAvg": 6.04,
+        "Fine": 0.42
+      },
+      {
+        "Id": "f92a6445-f9c2-bf6f-1e5c-d8db0a556254",
+        "Step": 8,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.83,
+        "HighAvg": 9.14,
+        "LowAvg": 18.82,
+        "Fine": 0.8
+      }
+    ]
+  },
+  {
+    "Id": "b2769fad-798a-3fb2-51b4-bb12d1b5bb4e",
+    "Manufacturer": "TIMEMORE",
+    "Model": "Chestnut X lite",
+    "Grinds": [
+      {
+        "Id": "16142fd0-88c9-3a85-63a6-bcb78e826922",
+        "Step": 11,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.21,
+        "HighAvg": 8.48,
+        "LowAvg": 7.37,
+        "Fine": 0.21
+      },
+      {
+        "Id": "17cc4968-f746-2f31-d9d0-af0441d3cc6c",
+        "Step": 19,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 25.36,
+        "HighAvg": 2.23,
+        "LowAvg": 2.15,
+        "Fine": 0.19
+      },
+      {
+        "Id": "532620a5-a0e2-1291-90f7-213af6d4815f",
+        "Step": 15,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.71,
+        "HighAvg": 4.72,
+        "LowAvg": 4.9,
+        "Fine": 0.13
+      },
+      {
+        "Id": "692d9e77-57d9-535e-b957-4f67714f2e34",
+        "Step": 17,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.56,
+        "HighAvg": 3.96,
+        "LowAvg": 2.89,
+        "Fine": 0.24
+      },
+      {
+        "Id": "aebf3be2-a071-b416-3298-54096b47b5c0",
+        "Step": 7,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.24,
+        "HighAvg": 12.27,
+        "LowAvg": 12.1,
+        "Fine": 0.19
+      },
+      {
+        "Id": "b3222db0-8891-61d4-d80a-1b8ae5ffb398",
+        "Step": 13,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.94,
+        "HighAvg": 6.85,
+        "LowAvg": 5.5,
+        "Fine": 0.19
+      },
+      {
+        "Id": "d2d6e46b-c904-d14e-a31a-fbc0b3952823",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.66,
+        "HighAvg": 11.19,
+        "LowAvg": 16.05,
+        "Fine": 0.21
+      },
+      {
+        "Id": "decc215a-4b59-9636-64c1-a8a3fa366ac7",
+        "Step": 9,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 8.94,
+        "HighAvg": 11.56,
+        "LowAvg": 9.98,
+        "Fine": 0.26
+      }
+    ]
+  },
+  {
+    "Id": "b2f5c027-65e2-fa51-ecaf-30f9eb5fb8f4",
+    "Manufacturer": "Eureka",
+    "Model": "Mignon \u0436\u0435\u0440\u043D\u043E\u0432\u0430 50mm Filtro Pro NEW",
+    "Grinds": [
+      {
+        "Id": "03fd9fa5-2b5b-b745-c7a2-bf6a2b055ef1",
+        "Step": 2,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.9,
+        "HighAvg": 16.77,
+        "LowAvg": 8.39,
+        "Fine": 0.55
+      },
+      {
+        "Id": "0dcea4f6-7217-a378-80ac-304e6b7f5f0d",
+        "Step": 2,
+        "SubStep": 1,
+        "Amount": 30,
+        "Coarse": 8.06,
+        "HighAvg": 14.59,
+        "LowAvg": 6.28,
+        "Fine": 0.67
+      },
+      {
+        "Id": "1d551ef9-6b5a-1a14-754e-dda82162e5a5",
+        "Step": 2,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 21.8,
+        "HighAvg": 4.12,
+        "LowAvg": 3.51,
+        "Fine": 0.18
+      },
+      {
+        "Id": "35643d03-7b50-35fa-c9c9-9ef59be47d84",
+        "Step": 2,
+        "SubStep": 3,
+        "Amount": 30,
+        "Coarse": 16.38,
+        "HighAvg": 8.33,
+        "LowAvg": 4.41,
+        "Fine": 0.45
+      },
+      {
+        "Id": "3b26cff5-678f-f6f7-fa4a-a7ddc232e132",
+        "Step": 2,
+        "SubStep": 2,
+        "Amount": 30,
+        "Coarse": 13.35,
+        "HighAvg": 10.72,
+        "LowAvg": 4.91,
+        "Fine": 0.59
+      },
+      {
+        "Id": "ad804da6-c0a8-15ba-e0f1-e98a7864ac52",
+        "Step": 2,
+        "SubStep": 4,
+        "Amount": 30,
+        "Coarse": 20.2,
+        "HighAvg": 5.44,
+        "LowAvg": 3.75,
+        "Fine": 0.36
+      },
+      {
+        "Id": "b71b95c1-a42f-36ab-c515-d7797dda3a12",
+        "Step": 1,
+        "SubStep": 4,
+        "Amount": 30,
+        "Coarse": 0.44,
+        "HighAvg": 12.68,
+        "LowAvg": 15.36,
+        "Fine": 1.12
+      },
+      {
+        "Id": "d3dfa387-bdb3-8475-f5ba-57dd9b119e8c",
+        "Step": 1,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 1.64,
+        "HighAvg": 16.07,
+        "LowAvg": 11.22,
+        "Fine": 0.78
+      }
+    ]
+  },
+  {
+    "Id": "c588f5d2-d9b8-47ea-b850-7e5886bc1a25",
+    "Manufacturer": "Varia",
+    "Model": "VS3",
+    "Grinds": [
+      {
+        "Id": "130e7c9f-3ee7-9a15-b1f7-9044e34dbe8b",
+        "Step": 11,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.46,
+        "HighAvg": 7.23,
+        "LowAvg": 5.7,
+        "Fine": 0.15
+      },
+      {
+        "Id": "3733600f-b1d6-45e9-d8f7-c2ea74535d51",
+        "Step": 10,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 15.06,
+        "HighAvg": 8,
+        "LowAvg": 6.24,
+        "Fine": 0.2
+      },
+      {
+        "Id": "39b02b2d-09f2-4a76-d6a8-386712630cd6",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.32,
+        "HighAvg": 11.02,
+        "LowAvg": 17,
+        "Fine": 0.25
+      },
+      {
+        "Id": "45937fef-2f1d-dfaf-44ae-43ef2ca048d0",
+        "Step": 7,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.23,
+        "HighAvg": 13.04,
+        "LowAvg": 13.56,
+        "Fine": 0.27
+      },
+      {
+        "Id": "4f8337ee-3c08-40f3-8150-d4b7b25a1eb2",
+        "Step": 8,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 6.64,
+        "HighAvg": 12.39,
+        "LowAvg": 10.18,
+        "Fine": 0.18
+      },
+      {
+        "Id": "51ec2c10-3b4a-7608-5bf8-75544057c5cd",
+        "Step": 12,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 19.72,
+        "HighAvg": 5.12,
+        "LowAvg": 4.49,
+        "Fine": 0.16
+      },
+      {
+        "Id": "632460e8-158c-cb1c-a768-11dab11a85a2",
+        "Step": 12,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.78,
+        "HighAvg": 5.73,
+        "LowAvg": 4.88,
+        "Fine": 0.15
+      },
+      {
+        "Id": "6e610103-6d0e-e400-1d66-34c2e95d37b3",
+        "Step": 6,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 2.28,
+        "HighAvg": 12.03,
+        "LowAvg": 15.28,
+        "Fine": 0.23
+      },
+      {
+        "Id": "75548737-21a3-245f-aa94-d9fa17ad4ebd",
+        "Step": 9,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 12.01,
+        "HighAvg": 9.7,
+        "LowAvg": 7.44,
+        "Fine": 0.19
+      },
+      {
+        "Id": "770bacdf-0d4c-4b36-4e17-98388eb83c79",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.65,
+        "HighAvg": 8.76,
+        "LowAvg": 6.78,
+        "Fine": 0.15
+      },
+      {
+        "Id": "77e82ceb-d8ea-64ef-3349-5cf806eb3d76",
+        "Step": 8,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 8.5,
+        "HighAvg": 11.52,
+        "LowAvg": 9.15,
+        "Fine": 0.19
+      },
+      {
+        "Id": "888cb6bd-cd77-0fc1-6bb7-3284a1735ff5",
+        "Step": 11,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 17.62,
+        "HighAvg": 6.48,
+        "LowAvg": 6.29,
+        "Fine": 0.2
+      },
+      {
+        "Id": "aa387030-d9b0-4ef5-0326-bd111ecd1537",
+        "Step": 5,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 0.96,
+        "HighAvg": 10.01,
+        "LowAvg": 18.72,
+        "Fine": 0.2
+      },
+      {
+        "Id": "aece4125-ce68-1d8a-f455-14b1bf00acf7",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 6,
+        "HighAvg": 9,
+        "LowAvg": 20.43,
+        "Fine": 0.22
+      },
+      {
+        "Id": "b31d2a97-8115-710e-61bd-54b1428d81fd",
+        "Step": 9,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.37,
+        "HighAvg": 10.65,
+        "LowAvg": 8.11,
+        "Fine": 0.2
+      },
+      {
+        "Id": "cf32f1dc-e972-3979-7231-773c9db9411d",
+        "Step": 13,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.65,
+        "HighAvg": 4.5,
+        "LowAvg": 4.11,
+        "Fine": 0.13
+      },
+      {
+        "Id": "d4c3a7be-e8d7-6bd8-b90e-3a9e943f8c57",
+        "Step": 7,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 4.94,
+        "HighAvg": 12.72,
+        "LowAvg": 11.87,
+        "Fine": 0.21
+      }
+    ]
+  },
+  {
+    "Id": "cc2a9e6f-dbc5-99a5-9552-f745b1c73f89",
+    "Manufacturer": "Niche",
+    "Model": "Zero",
+    "Grinds": [
+      {
+        "Id": "2323264a-0119-caf6-b5bb-7b5e8f9ac596",
+        "Step": 38,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.29,
+        "HighAvg": 11.32,
+        "LowAvg": 12.45,
+        "Fine": 0.52
+      },
+      {
+        "Id": "37b6b7d4-e73c-cae7-6e06-068847ab709f",
+        "Step": 32,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.93,
+        "HighAvg": 11.01,
+        "LowAvg": 15.11,
+        "Fine": 0.52
+      },
+      {
+        "Id": "394ca1b6-67dc-8711-2bd5-ee0a5efe1f04",
+        "Step": 28,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.96,
+        "HighAvg": 9.75,
+        "LowAvg": 17.24,
+        "Fine": 0.66
+      },
+      {
+        "Id": "5aba9777-d7bb-3c39-ef4b-8aa27f0a615d",
+        "Step": 34,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.72,
+        "HighAvg": 11.08,
+        "LowAvg": 14.13,
+        "Fine": 0.69
+      },
+      {
+        "Id": "64aa36e2-728a-4914-1a10-89e95d40ee5b",
+        "Step": 36,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 4.23,
+        "HighAvg": 11.11,
+        "LowAvg": 13.64,
+        "Fine": 0.52
+      },
+      {
+        "Id": "6cd5e8ce-052e-eea5-e5a9-28dd2afef70c",
+        "Step": 46,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 9.93,
+        "HighAvg": 10.05,
+        "LowAvg": 9.2,
+        "Fine": 0.44
+      },
+      {
+        "Id": "6dedfd48-6ca4-e516-4324-e2ef4d6642e2",
+        "Step": 50,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.72,
+        "HighAvg": 9.85,
+        "LowAvg": 8.69,
+        "Fine": 0.36
+      },
+      {
+        "Id": "99f22d11-3c70-ea56-845a-5ed1bfea67ad",
+        "Step": 44,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 7.87,
+        "HighAvg": 10.87,
+        "LowAvg": 10.03,
+        "Fine": 0.74
+      },
+      {
+        "Id": "bb6c25df-d65e-089f-64b5-62356fb83dbe",
+        "Step": 30,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.33,
+        "HighAvg": 10.33,
+        "LowAvg": 16.27,
+        "Fine": 0.5
+      },
+      {
+        "Id": "bc2dcc7a-a6b0-2767-11d2-c4a3629eb643",
+        "Step": 42,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 7.12,
+        "HighAvg": 11.09,
+        "LowAvg": 10.86,
+        "Fine": 0.59
+      },
+      {
+        "Id": "d354172b-ad85-83de-7c3e-e25a9ec54349",
+        "Step": 48,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.15,
+        "HighAvg": 9.92,
+        "LowAvg": 8.9,
+        "Fine": 0.61
+      },
+      {
+        "Id": "f38258f1-2c1c-a332-4edc-5e5c3e81db96",
+        "Step": 26,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.55,
+        "HighAvg": 8.81,
+        "LowAvg": 18.62,
+        "Fine": 0.48
+      },
+      {
+        "Id": "ff7c4fad-3392-30f0-e0b3-002575ad1bc8",
+        "Step": 40,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.88,
+        "HighAvg": 11.44,
+        "LowAvg": 11.54,
+        "Fine": 0.64
+      }
+    ]
+  },
+  {
+    "Id": "d0da7e41-c2b3-6d77-9f4d-4a6d11c0b0cb",
+    "Manufacturer": "Mahlk\u00F6nig",
+    "Model": "VTA6S",
+    "Grinds": [
+      {
+        "Id": "2e4dfc4f-c6e9-e71b-69a6-a71aa095ea38",
+        "Step": 13,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.55,
+        "HighAvg": 3.32,
+        "LowAvg": 3.46,
+        "Fine": 0.27
+      },
+      {
+        "Id": "369952cc-1ccc-88ff-f997-1a78200bc72d",
+        "Step": 12,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.76,
+        "HighAvg": 4.4,
+        "LowAvg": 3.75,
+        "Fine": 0.24
+      },
+      {
+        "Id": "3ec3aa92-2324-ca49-65b6-46304e0cda72",
+        "Step": 8,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 9.12,
+        "HighAvg": 13.38,
+        "LowAvg": 6.95,
+        "Fine": 0.28
+      },
+      {
+        "Id": "735c2b34-1d9f-cc17-dd95-3a55c79fd7fa",
+        "Step": 9,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.56,
+        "HighAvg": 10.19,
+        "LowAvg": 5.62,
+        "Fine": 0.42
+      },
+      {
+        "Id": "81392115-7747-89cf-1bb9-51752635ee81",
+        "Step": 7,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.66,
+        "HighAvg": 15.44,
+        "LowAvg": 8.1,
+        "Fine": 0.34
+      },
+      {
+        "Id": "8e8a7c72-d194-6063-55e7-207fce71795f",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.77,
+        "HighAvg": 14.39,
+        "LowAvg": 14.1,
+        "Fine": 0.44
+      },
+      {
+        "Id": "b10dcc71-2c63-eb68-8da2-b6d6edf5087f",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.44,
+        "HighAvg": 16.09,
+        "LowAvg": 10.75,
+        "Fine": 0.41
+      },
+      {
+        "Id": "e30aa65a-04cc-771c-0750-f4a9ecb4dc6a",
+        "Step": 11,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.25,
+        "HighAvg": 5.77,
+        "LowAvg": 4.4,
+        "Fine": 0.38
+      },
+      {
+        "Id": "e78e1cc9-2f81-c9db-f825-c324cd96ddf3",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.02,
+        "HighAvg": 7.65,
+        "LowAvg": 4.63,
+        "Fine": 0.26
+      },
+      {
+        "Id": "f1242a0d-e73a-eccc-4a5a-a6909ec4c854",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.18,
+        "HighAvg": 8.64,
+        "LowAvg": 20,
+        "Fine": 0.5
+      }
+    ]
+  },
+  {
+    "Id": "d4b3e253-1480-ed90-45fb-c18c171a5a9e",
+    "Manufacturer": "Ditting",
+    "Model": "807 LAB SWEET",
+    "Grinds": [
+      {
+        "Id": "0b0a1f7f-3609-354a-88ac-3dd65e52ff4c",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 3.95,
+        "HighAvg": 15.19,
+        "LowAvg": 10.03,
+        "Fine": 0.45
+      },
+      {
+        "Id": "1cc40274-2d92-23dd-e8a1-64513366669c",
+        "Step": 9,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.89,
+        "HighAvg": 3.51,
+        "LowAvg": 3.99,
+        "Fine": 0.28
+      },
+      {
+        "Id": "1d78f185-c2e9-d55d-f695-f908347625ec",
+        "Step": 7,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 15.6,
+        "HighAvg": 7.95,
+        "LowAvg": 5.88,
+        "Fine": 0.33
+      },
+      {
+        "Id": "1d9492f1-fac3-9b43-144d-7ec628dcd28d",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.12,
+        "HighAvg": 12.86,
+        "LowAvg": 14.9,
+        "Fine": 0.65
+      },
+      {
+        "Id": "2359ca01-7ff5-62af-7d47-85e389cceee3",
+        "Step": 8,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.87,
+        "HighAvg": 4.89,
+        "LowAvg": 4.59,
+        "Fine": 0.33
+      },
+      {
+        "Id": "248ba797-f854-e61e-72b6-34ebd2469a68",
+        "Step": 8,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 21.22,
+        "HighAvg": 3.9,
+        "LowAvg": 4.19,
+        "Fine": 0.24
+      },
+      {
+        "Id": "34d23a8a-13df-fefc-123f-816f8b05749c",
+        "Step": 6,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 12.6,
+        "HighAvg": 10.07,
+        "LowAvg": 6.73,
+        "Fine": 0.2
+      },
+      {
+        "Id": "51abe691-182a-2903-37f4-f73da82adae6",
+        "Step": 7,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 17.72,
+        "HighAvg": 6.1,
+        "LowAvg": 5.55,
+        "Fine": 0.35
+      },
+      {
+        "Id": "526b36d7-93c4-6a2b-948a-8b45e9e7d02e",
+        "Step": 4,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 2.13,
+        "HighAvg": 14.99,
+        "LowAvg": 12.17,
+        "Fine": 0.46
+      },
+      {
+        "Id": "6cd29401-1cf7-ca9a-b783-ae415c8ee4ab",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.88,
+        "HighAvg": 11.66,
+        "LowAvg": 6.79,
+        "Fine": 0.27
+      },
+      {
+        "Id": "750a10d1-1743-7810-f8f9-750a9886d55f",
+        "Step": 5,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 7.21,
+        "HighAvg": 13.65,
+        "LowAvg": 8.48,
+        "Fine": 0.33
+      }
+    ]
+  },
+  {
+    "Id": "de411cc7-98dc-8dcb-8496-6d021e73dc4a",
+    "Manufacturer": "Mahlk\u00F6nig",
+    "Model": "Tanzania  \u0414\u0438\u0441\u043A 0-9",
+    "Grinds": [
+      {
+        "Id": "0c7a0208-b2c6-92c9-c06b-9b679a8a60c8",
+        "Step": 5,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 5.03,
+        "HighAvg": 16.39,
+        "LowAvg": 7.32,
+        "Fine": 1.09
+      },
+      {
+        "Id": "1f259c95-a9b4-0c5e-9551-1a12f2f2ba68",
+        "Step": 8,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.4,
+        "HighAvg": 4.46,
+        "LowAvg": 3.3,
+        "Fine": 0.43
+      },
+      {
+        "Id": "28205582-16d6-9f44-aec4-3f3b8f05b309",
+        "Step": 7,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 19.52,
+        "HighAvg": 5.85,
+        "LowAvg": 3.96,
+        "Fine": 0.36
+      },
+      {
+        "Id": "41e96f51-0574-372a-1054-f84f79f94c55",
+        "Step": 4,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 1.48,
+        "HighAvg": 15.54,
+        "LowAvg": 11.24,
+        "Fine": 1.39
+      },
+      {
+        "Id": "75b3711b-c79f-2be5-4b6b-41a26b447f9e",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.56,
+        "HighAvg": 16.73,
+        "LowAvg": 9.57,
+        "Fine": 0.84
+      },
+      {
+        "Id": "7f926e8f-9ca4-1803-c10f-6f49e7c61242",
+        "Step": 7,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.92,
+        "HighAvg": 7.9,
+        "LowAvg": 4.25,
+        "Fine": 0.84
+      },
+      {
+        "Id": "a427d50b-d89d-357a-11cb-0faab0c90125",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.425,
+        "HighAvg": 12.08,
+        "LowAvg": 15.73,
+        "Fine": 1.41
+      },
+      {
+        "Id": "d289360f-ab83-64f0-f67d-e37cf2a4240a",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 8.47,
+        "HighAvg": 14.32,
+        "LowAvg": 6.35,
+        "Fine": 0.675
+      },
+      {
+        "Id": "d5e4796a-8d00-7829-684d-2fcb8a25e23b",
+        "Step": 6,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 12.93,
+        "HighAvg": 11.27,
+        "LowAvg": 4.52,
+        "Fine": 1.14
+      }
+    ]
+  },
+  {
+    "Id": "de437d55-360c-f02f-285b-8b7aa3c48982",
+    "Manufacturer": "Eureka",
+    "Model": "Mignon \u0436\u0435\u0440\u043D\u043E\u0432\u0430 50mm Filtro Pro",
+    "Grinds": [
+      {
+        "Id": "30e80a3b-1110-4d7e-9b9f-c123cebc9602",
+        "Step": 1,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 1.5,
+        "HighAvg": 15.44,
+        "LowAvg": 11.74,
+        "Fine": 0.97
+      },
+      {
+        "Id": "4d22d5d5-702d-3398-8194-e1cf10cea20e",
+        "Step": 2,
+        "SubStep": 3,
+        "Amount": 30,
+        "Coarse": 15.79,
+        "HighAvg": 8.76,
+        "LowAvg": 4.87,
+        "Fine": 0.29
+      },
+      {
+        "Id": "4efefebb-3bc9-f858-9e04-c60a481eafc4",
+        "Step": 2,
+        "SubStep": 2,
+        "Amount": 30,
+        "Coarse": 12.57,
+        "HighAvg": 11.17,
+        "LowAvg": 5.48,
+        "Fine": 0.45
+      },
+      {
+        "Id": "7660b18c-6fa7-306c-fad2-5f2b610aff0b",
+        "Step": 2,
+        "SubStep": 4,
+        "Amount": 30,
+        "Coarse": 18.84,
+        "HighAvg": 6.32,
+        "LowAvg": 3.87,
+        "Fine": 0.75
+      },
+      {
+        "Id": "89648afc-a2ee-e06c-6cda-1947bea937ca",
+        "Step": 3,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.49,
+        "HighAvg": 3.68,
+        "LowAvg": 2.94,
+        "Fine": 0.61
+      },
+      {
+        "Id": "96371ed2-59ee-8570-fae7-7dd7c95ebaa9",
+        "Step": 2,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 4.23,
+        "HighAvg": 16.43,
+        "LowAvg": 8.17,
+        "Fine": 0.76
+      },
+      {
+        "Id": "99b1a5a3-da5d-6954-c5ad-df021069a6c5",
+        "Step": 1,
+        "SubStep": 4,
+        "Amount": 30,
+        "Coarse": 0.34,
+        "HighAvg": 11.23,
+        "LowAvg": 16.83,
+        "Fine": 1.15
+      },
+      {
+        "Id": "c850a269-186d-ceb7-1267-316ecf49d0cb",
+        "Step": 2,
+        "SubStep": 1,
+        "Amount": 30,
+        "Coarse": 8.77,
+        "HighAvg": 14.12,
+        "LowAvg": 6.55,
+        "Fine": 0.26
+      },
+      {
+        "Id": "e47e4260-fa37-798b-53f6-df896f0d2504",
+        "Step": 2,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 20.47,
+        "HighAvg": 4.93,
+        "LowAvg": 3.51,
+        "Fine": 0.75
+      }
+    ]
+  },
+  {
+    "Id": "e49d2f1a-6b95-79d0-328f-37a0da8d23a9",
+    "Manufacturer": "Timemore",
+    "Model": "Chestnut G1 Plus",
+    "Grinds": [
+      {
+        "Id": "27e29da7-129e-c18b-21bd-c5752ea826d3",
+        "Step": 24,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.86,
+        "HighAvg": 3.96,
+        "LowAvg": 4.32,
+        "Fine": 0.59
+      },
+      {
+        "Id": "2c92ce0e-68a5-6359-a76a-6fcd9cfa3958",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.8,
+        "HighAvg": 8.08,
+        "LowAvg": 19.83,
+        "Fine": 0.77
+      },
+      {
+        "Id": "45f82849-f73e-94ad-a6f7-987ba6d2d982",
+        "Step": 20,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.23,
+        "HighAvg": 5.99,
+        "LowAvg": 5.96,
+        "Fine": 0.51
+      },
+      {
+        "Id": "5d70558b-3049-3dcd-2b3b-c08c1a2eeb32",
+        "Step": 18,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.17,
+        "HighAvg": 7.74,
+        "LowAvg": 7.23,
+        "Fine": 0.54
+      },
+      {
+        "Id": "628642e0-6176-9f5b-2008-0fbb73be59b5",
+        "Step": 12,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.79,
+        "HighAvg": 11.56,
+        "LowAvg": 14.52,
+        "Fine": 0.71
+      },
+      {
+        "Id": "65d859ce-7636-3c30-a01b-dc02807c47c5",
+        "Step": 22,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.54,
+        "HighAvg": 4.66,
+        "LowAvg": 5.19,
+        "Fine": 0.31
+      },
+      {
+        "Id": "bd926de8-79c1-c2ac-31aa-bde4cce9a9ab",
+        "Step": 16,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 10.38,
+        "HighAvg": 9.84,
+        "LowAvg": 8.86,
+        "Fine": 0.54
+      },
+      {
+        "Id": "ce7056df-62a9-2af9-e90d-916c8e963dac",
+        "Step": 14,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 6.14,
+        "HighAvg": 11.56,
+        "LowAvg": 11.3,
+        "Fine": 0.61
+      },
+      {
+        "Id": "e0ef7e20-455f-ed01-6d2c-1b863cdfc636",
+        "Step": 26,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.48,
+        "HighAvg": 3.25,
+        "LowAvg": 3.66,
+        "Fine": 0.38
+      }
+    ]
+  },
+  {
+    "Id": "e536dd3e-d3d6-893b-1461-ddd449eb176e",
+    "Manufacturer": "Eureka",
+    "Model": "Atom Pro",
+    "Grinds": [
+      {
+        "Id": "92015b2d-aece-9995-c631-d15a77ec7571",
+        "Step": 10,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.87,
+        "HighAvg": 4.7,
+        "LowAvg": 5.86,
+        "Fine": 0.23
+      },
+      {
+        "Id": "9fa43076-4d4b-950e-14e9-ea3fe6a03785",
+        "Step": 9,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.9,
+        "HighAvg": 5.97,
+        "LowAvg": 5.6,
+        "Fine": 0.29
+      },
+      {
+        "Id": "a2b22737-26dc-2cb3-051e-8bece04805bf",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 0.49,
+        "HighAvg": 10.26,
+        "LowAvg": 18.31,
+        "Fine": 0.59
+      },
+      {
+        "Id": "d12f88f1-79d5-a9cb-b290-c0253e8624ca",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 4.16,
+        "HighAvg": 14.55,
+        "LowAvg": 10.6,
+        "Fine": 0.43
+      },
+      {
+        "Id": "d60466c2-ac01-8a05-0417-59f6f7eaba2c",
+        "Step": 8,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.79,
+        "HighAvg": 8.69,
+        "LowAvg": 6.76,
+        "Fine": 0.29
+      },
+      {
+        "Id": "e1402d0b-c029-0467-d13b-dd3207d73ec6",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.75,
+        "HighAvg": 14.21,
+        "LowAvg": 13.17,
+        "Fine": 0.48
+      },
+      {
+        "Id": "e97a6c48-0b62-3058-1e36-e8c8855b9171",
+        "Step": 12,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.41,
+        "HighAvg": 3.13,
+        "LowAvg": 3.99,
+        "Fine": 0.27
+      },
+      {
+        "Id": "efedbcab-87f3-a8ca-e363-0c98f6868930",
+        "Step": 7,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 9.22,
+        "HighAvg": 12.21,
+        "LowAvg": 7.72,
+        "Fine": 0.42
+      },
+      {
+        "Id": "fa902402-0ed1-9159-72ae-8ebe4ca85ae1",
+        "Step": 11,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.54,
+        "HighAvg": 3.44,
+        "LowAvg": 4.54,
+        "Fine": 0.24
+      }
+    ]
+  },
+  {
+    "Id": "ea0c3783-c611-729a-b50e-5ab8cdb00132",
+    "Manufacturer": "Fellow",
+    "Model": "Ode",
+    "Grinds": [
+      {
+        "Id": "2628db97-0251-f8e7-de88-0b071090e3de",
+        "Step": 1,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 11.91,
+        "HighAvg": 9.18,
+        "LowAvg": 8.08,
+        "Fine": 0.48
+      },
+      {
+        "Id": "2f6d760f-99d9-db7f-8a3f-fbe8acf120b9",
+        "Step": 6,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.8,
+        "HighAvg": 4.87,
+        "LowAvg": 3.72,
+        "Fine": 0.33
+      },
+      {
+        "Id": "91bafba2-7dcd-25c0-0bb7-c5eaff7666f4",
+        "Step": 7,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 22.19,
+        "HighAvg": 4.17,
+        "LowAvg": 3.16,
+        "Fine": 0.29
+      },
+      {
+        "Id": "a8570023-5c0b-bcc5-005a-09601db4b572",
+        "Step": 2,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 14.175,
+        "HighAvg": 8.16,
+        "LowAvg": 6.85,
+        "Fine": 0.49
+      },
+      {
+        "Id": "c14d9e98-e4da-7157-94b6-f369981d89b4",
+        "Step": 5,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 19.61,
+        "HighAvg": 5.66,
+        "LowAvg": 4.11,
+        "Fine": 0.36
+      },
+      {
+        "Id": "e04b6400-a4c1-d7b8-5ed4-ed4b83c05da3",
+        "Step": 3,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 16.31,
+        "HighAvg": 7.33,
+        "LowAvg": 5.72,
+        "Fine": 0.36
+      },
+      {
+        "Id": "f2b9fd7b-0286-20aa-2c56-5030116156fe",
+        "Step": 4,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 17.8,
+        "HighAvg": 6.47,
+        "LowAvg": 4.9,
+        "Fine": 0.61
+      }
+    ]
+  },
+  {
+    "Id": "f17aba5c-dc68-8ab2-722b-8e8e064d1261",
+    "Manufacturer": "Knock",
+    "Model": "Feld47",
+    "Grinds": [
+      {
+        "Id": "0e292026-47e3-12fc-73ae-d6c231d5cae6",
+        "Step": 2,
+        "SubStep": 1,
+        "Amount": 30,
+        "Coarse": 1.94,
+        "HighAvg": 10.3,
+        "LowAvg": 16.9,
+        "Fine": 0.77
+      },
+      {
+        "Id": "197be9aa-0158-a17f-bfbe-d9c64f9fb6fa",
+        "Step": 2,
+        "SubStep": 12,
+        "Amount": 30,
+        "Coarse": 15.1,
+        "HighAvg": 6.76,
+        "LowAvg": 7.42,
+        "Fine": 0.46
+      },
+      {
+        "Id": "3c647df3-5b6b-04fb-b821-b6172b3bc782",
+        "Step": 2,
+        "SubStep": 3,
+        "Amount": 30,
+        "Coarse": 3.66,
+        "HighAvg": 11.16,
+        "LowAvg": 13.98,
+        "Fine": 0.78
+      },
+      {
+        "Id": "3ec8f097-4cb3-3d43-aaa3-3f633455eb5b",
+        "Step": 2,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 7.68,
+        "HighAvg": 10.37,
+        "LowAvg": 10.93,
+        "Fine": 0.65
+      },
+      {
+        "Id": "56a7bee3-323c-f5a2-fc9a-d18c28dc93ef",
+        "Step": 3,
+        "SubStep": 5,
+        "Amount": 30,
+        "Coarse": 19.12,
+        "HighAvg": 4.89,
+        "LowAvg": 5.19,
+        "Fine": 0.51
+      },
+      {
+        "Id": "58a404a2-f21a-d649-8106-6a6ca1919ba0",
+        "Step": 2,
+        "SubStep": 11,
+        "Amount": 30,
+        "Coarse": 14.82,
+        "HighAvg": 6.98,
+        "LowAvg": 7.26,
+        "Fine": 0.62
+      },
+      {
+        "Id": "5a28a192-bcd7-194b-4df9-5218ce55e1ac",
+        "Step": 2,
+        "SubStep": 2,
+        "Amount": 30,
+        "Coarse": 2.55,
+        "HighAvg": 10.82,
+        "LowAvg": 15.25,
+        "Fine": 0.99
+      },
+      {
+        "Id": "5d7d6958-e93e-17ff-f734-b1b5f3dab3a6",
+        "Step": 2,
+        "SubStep": 7,
+        "Amount": 30,
+        "Coarse": 11.06,
+        "HighAvg": 8.94,
+        "LowAvg": 9.06,
+        "Fine": 0.56
+      },
+      {
+        "Id": "5f8b163e-af60-4a1f-e4f2-f864fabbf7ac",
+        "Step": 3,
+        "SubStep": 1,
+        "Amount": 30,
+        "Coarse": 16.08,
+        "HighAvg": 6.45,
+        "LowAvg": 6.85,
+        "Fine": 0.43
+      },
+      {
+        "Id": "7352d076-e690-c394-c986-a90fa946698d",
+        "Step": 3,
+        "SubStep": 2,
+        "Amount": 30,
+        "Coarse": 17.11,
+        "HighAvg": 5.8,
+        "LowAvg": 6.25,
+        "Fine": 0.56
+      },
+      {
+        "Id": "8d3171c8-dda2-bf09-b14b-7c2303314b69",
+        "Step": 2,
+        "SubStep": 8,
+        "Amount": 30,
+        "Coarse": 11.32,
+        "HighAvg": 8.69,
+        "LowAvg": 9.24,
+        "Fine": 0.43
+      },
+      {
+        "Id": "995f8cc3-7388-460a-0f98-870d0a24d0cb",
+        "Step": 3,
+        "SubStep": 3,
+        "Amount": 30,
+        "Coarse": 17.36,
+        "HighAvg": 5.75,
+        "LowAvg": 6.3,
+        "Fine": 0.38
+      },
+      {
+        "Id": "a284f7b3-e61a-61b9-af04-f53c8f5d25a2",
+        "Step": 2,
+        "SubStep": 4,
+        "Amount": 30,
+        "Coarse": 5.66,
+        "HighAvg": 10.67,
+        "LowAvg": 12.53,
+        "Fine": 0.64
+      },
+      {
+        "Id": "ac2bccec-f32b-c5ab-d47b-6e0836021dba",
+        "Step": 2,
+        "SubStep": 9,
+        "Amount": 30,
+        "Coarse": 12.16,
+        "HighAvg": 8.28,
+        "LowAvg": 8.68,
+        "Fine": 0.58
+      },
+      {
+        "Id": "ad960da4-f2d1-c95d-6c39-11ca7d49f797",
+        "Step": 3,
+        "SubStep": 6,
+        "Amount": 30,
+        "Coarse": 19.81,
+        "HighAvg": 4.51,
+        "LowAvg": 4.96,
+        "Fine": 0.38
+      },
+      {
+        "Id": "ba6009ff-50d4-d68c-3424-4e55ade77dce",
+        "Step": 2,
+        "SubStep": 6,
+        "Amount": 30,
+        "Coarse": 9.79,
+        "HighAvg": 9.57,
+        "LowAvg": 9.75,
+        "Fine": 0.57
+      },
+      {
+        "Id": "d57d0d10-b5d3-0c63-e7b9-2fc6f75ee4ae",
+        "Step": 2,
+        "SubStep": 1,
+        "Amount": 30,
+        "Coarse": 13.25,
+        "HighAvg": 7.7,
+        "LowAvg": 8.26,
+        "Fine": 0.41
+      },
+      {
+        "Id": "d9db0a79-80b1-cd72-585d-d8c435fa8e21",
+        "Step": 3,
+        "SubStep": 4,
+        "Amount": 30,
+        "Coarse": 18.7,
+        "HighAvg": 5.21,
+        "LowAvg": 5.6,
+        "Fine": 0.4
+      }
+    ]
+  },
+  {
+    "Id": "fce92a32-a8af-71c2-32ac-8d3fdcff3af2",
+    "Manufacturer": "1Zpresso",
+    "Model": "JX",
+    "Grinds": [
+      {
+        "Id": "4319a0f1-b741-7a8a-fb55-e662d1c27e70",
+        "Step": 57,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 8.84,
+        "HighAvg": 10.55,
+        "LowAvg": 9.55,
+        "Fine": 0.76
+      },
+      {
+        "Id": "48581b7c-675a-dfad-b50a-dfaf3dd542c7",
+        "Step": 52,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 5.8,
+        "HighAvg": 11.51,
+        "LowAvg": 11.69,
+        "Fine": 0.6
+      },
+      {
+        "Id": "4b5a4df2-2ee4-e431-74a0-110473dbaceb",
+        "Step": 62,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 13.16,
+        "HighAvg": 8.47,
+        "LowAvg": 7.61,
+        "Fine": 0.33
+      },
+      {
+        "Id": "5312e8c8-ceb6-62b1-c4d6-b076383366e7",
+        "Step": 72,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 18.87,
+        "HighAvg": 5.94,
+        "LowAvg": 4.74,
+        "Fine": 0.44
+      },
+      {
+        "Id": "705854d5-38a5-d896-f6eb-dce4b551fa4c",
+        "Step": 42,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 1.38,
+        "HighAvg": 10.25,
+        "LowAvg": 17.37,
+        "Fine": 0.6
+      },
+      {
+        "Id": "7a2c0cfb-7c74-31cc-3e2e-66f305d3c5b5",
+        "Step": 67,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 15.9,
+        "HighAvg": 7.25,
+        "LowAvg": 6.27,
+        "Fine": 0.42
+      },
+      {
+        "Id": "7fbf9fa4-72c9-fb14-46bd-926d15030ec9",
+        "Step": 47,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 2.83,
+        "HighAvg": 11.49,
+        "LowAvg": 14.64,
+        "Fine": 0.66
+      },
+      {
+        "Id": "93be3497-999a-f800-c9ad-67ca354bf5ad",
+        "Step": 77,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 20.56,
+        "HighAvg": 5.01,
+        "LowAvg": 4.32,
+        "Fine": 0.2
+      },
+      {
+        "Id": "992eeecc-50d2-e766-8998-34770f35bf90",
+        "Step": 82,
+        "SubStep": 0,
+        "Amount": 30,
+        "Coarse": 21.7,
+        "HighAvg": 4.26,
+        "LowAvg": 3.52,
+        "Fine": 0.41
+      }
+    ]
+  }
+]

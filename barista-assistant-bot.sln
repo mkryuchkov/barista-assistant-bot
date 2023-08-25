@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{58FE78
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mkryuchkov.BaristaBot.Model", "src\mkryuchkov.BaristaBot.Model\mkryuchkov.BaristaBot.Model.csproj", "{577FF17D-5516-45D1-B421-1268FE62B64B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mkryuchkov.BaristaBot.DataScrapper", "src\mkryuchkov.BaristaBot.DataScrapper\mkryuchkov.BaristaBot.DataScrapper.csproj", "{D04BB4DE-390C-4927-A2A4-50B707941133}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{577FF17D-5516-45D1-B421-1268FE62B64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{577FF17D-5516-45D1-B421-1268FE62B64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{577FF17D-5516-45D1-B421-1268FE62B64B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04BB4DE-390C-4927-A2A4-50B707941133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04BB4DE-390C-4927-A2A4-50B707941133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04BB4DE-390C-4927-A2A4-50B707941133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04BB4DE-390C-4927-A2A4-50B707941133}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C0C0B9B7-252F-4BFA-8DE2-16BE201BF7F0} = {58FE7878-1563-4097-B1CC-86B5F5D3C21E}
